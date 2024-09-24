@@ -2,7 +2,7 @@ class Solution {
 public:
     int solve(int n,int m,vector<vector<int>> &vv,vector<vector<int>>& grid)
     {
-        if(m<0 || n<=0)
+        if(m<=0 || n<=0)
         return 0;
         if(grid[n-1][m-1]==1)
         return vv[n][m]=0;
