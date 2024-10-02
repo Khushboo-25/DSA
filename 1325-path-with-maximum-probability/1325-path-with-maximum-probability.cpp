@@ -20,6 +20,8 @@ public:
             double d=it.first;
             int node=it.second;
             pq.pop();
+            if(node==et)
+            return d;
             for(auto it1: adj[node])
             {
                 int n1=it1.first;
