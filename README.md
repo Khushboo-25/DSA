@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Khushboo-25/DSA/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -87,18 +88,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
