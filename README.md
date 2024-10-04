@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Khushboo-25/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Khushboo-25/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
