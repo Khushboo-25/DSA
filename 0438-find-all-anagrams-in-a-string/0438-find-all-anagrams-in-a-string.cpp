@@ -2,10 +2,10 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) 
     {
-        unordered_map<int,int>pp,pp1;
+        unordered_map<char,int>pp,pp1;
         for(auto it: p)
         {
-            pp[it-'a']++;
+            pp[it]++;
         }
         int n1=s.size(),n2=p.size();
         if(n1<n2)
@@ -13,7 +13,7 @@ public:
         vector<int> ans;
         for(int i=0;i<n2;i++)
         {
-            pp1[s[i]-'a']++;
+            pp1[s[i]]++;
         }
         if(pp==pp1)
         ans.push_back(0);
@@ -21,12 +21,12 @@ public:
         {
             if(i<n1)
             {
-                pp1[s[i]-'a']++;
+                pp1[s[i]]++;
             }
-            if(pp1[s[i-n2]-'a']>1)
-            pp1[s[i-n2]-'a']--;
+            if(pp1[s[i-n2]]>1)
+            pp1[s[i-n2]]--;
             else
-            pp1.erase(s[i-n2]-'a');
+            pp1.erase(s[i-n2]);
             if(pp==pp1)
             ans.push_back(i-n2+1);
         }
