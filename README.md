@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Khushboo-25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
@@ -156,9 +158,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Khushboo-25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Khushboo-25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
