@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Khushboo-25/DSA/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -191,4 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
