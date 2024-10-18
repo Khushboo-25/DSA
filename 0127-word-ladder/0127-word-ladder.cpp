@@ -27,7 +27,6 @@ public:
                 for (char ch = 'a'; ch <= 'z'; ch++)
                 {
                     word[i] = ch;
-                    
                     if (st[word]>steps+1)
                     {
                         st[word]=steps+1;
