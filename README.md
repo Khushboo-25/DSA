@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Khushboo-25/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Khushboo-25/DSA/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Khushboo-25/DSA/tree/master/0567-permutation-in-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/Khushboo-25/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Khushboo-25/DSA/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
