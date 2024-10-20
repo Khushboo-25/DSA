@@ -1,51 +1,45 @@
+#define point pair<int,pair<int,int>>
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) 
     {
-        vector<vector<vector<int>>> adj(n);
+        vector<vector<pair<int,int>>>adj(n);
         for(auto it: flights)
         {
-            int a=it[0];
-            int b=it[1];
-            int d=it[2];
-            adj[a].push_back({b,d});
+            int x=it[0];
+            int y=it[1];
+            int p=it[2];
+            adj[x].push_back({y,p});
         }
-        vector<vector<int>> vv(n, vector<int>(k + 2, INT_MAX));
-        vv[src][0]=0;
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>> >pq;
-        // queue<pair<int,pair<int,int>>>pq;
+        vector<vector<int>> pr(n,vector<int>(k+2,INT_MAX));
+        pr[src][0]=0;
+        priority_queue<point,vector<point>,greater<point>>pq;
         pq.push({0,{0,src}});
-        
         while(!pq.empty())
         {
             auto it=pq.top();
-            int d=it.first;
-            int kn=it.second.first;
-            
+            int tm=it.first;
+            int km=it.second.first;
             int node=it.second.second;
             pq.pop();
-            if( node==dst)
-            {
-                return d;
-            }
-            // If we have used all allowed stops, continue
-            if(kn> k)
-                continue;
-            
-            
+            if(node==dst)
+            return tm;
+            if(km>k)
+            continue;
             for(auto it: adj[node])
             {
-                int n1=it[0];
-                int d2=it[1];
-                if(d+d2<vv[n1][kn + 1] )
+                int nw=it.first;
+                int tm2=it.second;
+                if(pr[nw][km+1]>tm+tm2)
                 {
-                    
-                    vv[n1][kn+1]=d+d2;
-                    pq.push({vv[n1][kn+1],{kn+1,n1}});
+                    pr[nw][km+1]=tm+tm2;
+                    pq.push({pr[nw][km+1],{km+1,nw}});
                 }
             }
         }
         
         return -1;
+
+        
     }
 };
