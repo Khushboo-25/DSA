@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0940-fruit-into-baskets](https://github.com/Khushboo-25/DSA/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0687-longest-univalue-path](https://github.com/Khushboo-25/DSA/tree/master/0687-longest-univalue-path) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1300-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1300-critical-connections-in-a-network) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -232,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
+| [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 ## Hash Table
 |  |
