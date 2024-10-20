@@ -20,6 +20,7 @@ public:
             int x=it.second.first;
             int y=it.second.second;
             pq.pop();
+            bool check=0;
             for( auto it: dr)
             {
                 int x1=x+it.first;
@@ -28,6 +29,7 @@ public:
                 {
                     if(grid[x1][y1]<=tm+1)
                     {
+                        check=1;
                         if(vv[x1][y1]>tm+1 )
                         {
                             vv[x1][y1]=tm+1;
@@ -37,36 +39,23 @@ public:
                     
                 }
             }
-            for( auto it: dr)
+            if(check)
             {
-                int x1=x+it.first;
-                int y1=y+it.second;
-                if(x1<n && x1>=0 && y1<m && y1>=0 )
+                for( auto it: dr)
                 {
-                    if(grid[x1][y1]>tm+1)
+                    int x1=x+it.first;
+                    int y1=y+it.second;
+                    if(x1<n && x1>=0 && y1<m && y1>=0 )
                     {
-                        bool check=0;
-                            for(auto it:dr)
-                            {
-                                int x2=x+it.first;
-                                int y2=y+it.second;
-                                if(x2<n && x2>=0 && y2<m && y2>=0  &&vv[x2][y2]!=INT_MAX)
-                                {
-                                    check=1;
-                                    break;
-                                }
-
-                            }
-                        if(check)
+                        if(grid[x1][y1]>tm+1)
                         {
+                        
                             int tm2=grid[x1][y1]+(1-(grid[x1][y1]-vv[x][y])%2);
                             if(vv[x1][y1]>tm2)
                             {
                                 vv[x1][y1]=tm2;
                                 pq.push({vv[x1][y1],{x1,y1}});
                             }
-                            // vv[x1][y1]=grid[x1][y1]+(1-(grid[x1][y1]-vv[x][y])%2);
-                            
                         }
                     }
                 }
