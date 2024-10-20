@@ -1,59 +1,54 @@
 class Solution {
 public:
-    vector<double> calcEquation(vector<vector<string>>& eq, vector<double>& val, vector<vector<string>>& qr) 
+double call(string st,string end,unordered_map<string,vector<pair<string,double>>>&adj)
+{
+    if(adj.find(st)==adj.end()|| adj.find(end)==adj.end())
+    return -1.0;
+    unordered_map<string,int> vv;
+    queue<pair<string,double>>pq;
+    
+    pq.push({st,1.0});
+    vv[st]=1;
+    while(!pq.empty())
     {
-        unordered_map<string, vector<pair<string, double>>> adj;
-        // vector<vector<pair<int,double>>> adj(26);
+        string t1=pq.front().first;
+        double p=pq.front().second;
+        pq.pop();
+        if(t1==end)
+                return p;
+        
+        for(auto it: adj[t1])
+        {
+            
+            string nw=it.first;
+            double d1=it.second;
+            if(vv.find(nw)==vv.end())
+            {
+                vv[nw]=1;
+                pq.push({nw,p*1.0*d1});
+            }
+        }
+    }
+    
+    return -1.0;
+}
+    vector<double> calcEquation(vector<vector<string>>& eq,
+     vector<double>& val, vector<vector<string>>& q) 
+    {
         int n=eq.size();
+        unordered_map<string,vector<pair<string,double>>>adj;
         for(int i=0;i<n;i++)
         {
             string x=eq[i][0];
             string y=eq[i][1];
-            adj[x].push_back({y,val[i]});
-            adj[y].push_back({x,1.0/val[i]});
+            double wt=val[i];
+            adj[x].push_back({y,wt});
+            adj[y].push_back({x,1.0/wt});
         }
-        
         vector<double> ans;
-        for(auto it: qr)
+        for(auto it:q)
         {
-            string src=it[0];
-            string tt=it[1];
-            if(adj.find(src)==adj.end() || adj.find(tt)==adj.end())
-            {
-                ans.push_back(-1.0);
-                continue;
-            }
-            queue<pair<string,double>>pq;
-            pq.push({src,1.0});
-            int m=0;
-            unordered_map<string,int> vv;
-            vv[src]=1;
-            while(!pq.empty())
-            {
-                auto it1=pq.front();
-                string node=it1.first;
-                double d=it1.second;
-                pq.pop();
-                if(node==tt)
-                {
-                    ans.push_back(d);
-                    m=1;
-                    break;
-                }
-                for(auto it2: adj[node])
-                {
-                    string n1=it2.first;
-                    double d2=it2.second;
-                    if(vv.find(n1)==vv.end())
-                    {
-                        pq.push({n1,d2*d*1.0});
-                        vv[n1]=1;
-                    }
-                    
-                }
-            }
-            if(m==0)
-            ans.push_back(-1.0);
+            ans.push_back(call(it[0],it[1],adj));
         }
         return ans;
     }
