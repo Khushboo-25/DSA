@@ -12,7 +12,7 @@ void dfs(int i,int p,vector<int> &vv,vector<int> &ta,vector<int> &low,vector<vec
         if(it==p)
         continue;
         else if(vv[it]==1)
-        low[i]=min(low[i],low[it]);
+        low[i]=min(low[i],ta[it]);
         else{
             dfs(it,i,vv,ta,low,adj,ans);
             low[i]=min(low[i],low[it]);
