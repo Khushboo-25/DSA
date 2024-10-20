@@ -35,12 +35,7 @@ public:
                         vv[x1][y1]=tm;
                         pq.push({vv[x1][y1],{x1,y1}});
                         }
-                        // // check=1;
-                        // if(vv[x1][y1]>tm+1)
-                        // {
-                        //     vv[x1][y1]=tm+1;
-                        //     pq.push({vv[x1][y1],{x1,y1}});
-                        // }
+                        
                     }
                     else
                     {
@@ -49,8 +44,7 @@ public:
                             vv[x1][y1]=grid[x1][y1];
                             pq.push({vv[x1][y1],{x1,y1}});
                         }
-                        // vv[x1][y1]=min(grid[x1][y1],vv[x1][y1]);
-                        // pq.push({vv[x1][y1],{x1,y1}});
+                        
                     }
                     
                 }
