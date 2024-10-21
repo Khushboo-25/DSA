@@ -52,13 +52,27 @@ int call(int i,int j,vector<vector<int>>& mat,int &n,int &m,vector<vector<int>>&
         int ans=0;
         int n=mat.size(),m=mat[0].size();
         
-        vector<vector<int>>vv(n,vector<int>(m,-1));
+                vector<vector<int>>vv(n,vector<int>(m,-1));
+                
+        
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                
                 ans=max(ans,call(i,j,mat,n,m,vv));
+                cout<<"*****"<<endl;
+                for(int i=0;i<n;i++)
+                {
+                    for(int j=0;j<m;j++)
+                    {
+                        cout<<vv[i][j]<< " ";
+
+                    }
+                    cout<<endl;
+                }
+
+               
+                
             }
         }
         return ans;
