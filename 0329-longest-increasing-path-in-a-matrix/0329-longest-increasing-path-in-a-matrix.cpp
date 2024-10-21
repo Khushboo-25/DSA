@@ -60,16 +60,16 @@ int call(int i,int j,vector<vector<int>>& mat,int &n,int &m,vector<vector<int>>&
             for(int j=0;j<m;j++)
             {
                 ans=max(ans,call(i,j,mat,n,m,vv));
-                cout<<"*****"<<endl;
-                for(int i=0;i<n;i++)
-                {
-                    for(int j=0;j<m;j++)
-                    {
-                        cout<<vv[i][j]<< " ";
+                // cout<<"*****"<<endl;
+                // for(int i=0;i<n;i++)
+                // {
+                //     for(int j=0;j<m;j++)
+                //     {
+                //         cout<<vv[i][j]<< " ";
 
-                    }
-                    cout<<endl;
-                }
+                //     }
+                //     cout<<endl;
+                // }
 
                
                 
