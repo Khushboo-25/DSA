@@ -59,6 +59,7 @@ int call(int i,int j,vector<vector<int>>& mat,int &n,int &m,vector<vector<int>>&
         {
             for(int j=0;j<m;j++)
             {
+                if(vv[i][j]==-1)
                 ans=max(ans,call(i,j,mat,n,m,vv));
                 // cout<<"*****"<<endl;
                 // for(int i=0;i<n;i++)
