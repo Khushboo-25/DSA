@@ -18,7 +18,8 @@ int call(int i,int j,vector<vector<int>>& mat,int &n,int &m,vector<vector<int>>&
         int x=it.second.first;
         int y=it.second.second;
         pq.pop();
-        
+        if(vv[x][y]>d)
+        continue;
         for(auto it1:dr)
         {
             int x1=x+it1.first;
@@ -61,19 +62,6 @@ int call(int i,int j,vector<vector<int>>& mat,int &n,int &m,vector<vector<int>>&
             {
                 if(vv[i][j]==-1)
                 ans=max(ans,call(i,j,mat,n,m,vv));
-                // cout<<"*****"<<endl;
-                // for(int i=0;i<n;i++)
-                // {
-                //     for(int j=0;j<m;j++)
-                //     {
-                //         cout<<vv[i][j]<< " ";
-
-                //     }
-                //     cout<<endl;
-                // }
-
-               
-                
             }
         }
         return ans;
