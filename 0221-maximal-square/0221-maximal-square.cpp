@@ -31,28 +31,28 @@ public:
         int ans = 0;
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
-        int n1=solve(matrix,0,0,ans,dp);
-        return ans*ans;
-        // for(int i = n-1;i>=0;i--)
-        // {
-        //     for(int j = m-1;j>=0;j--)
-        //     {
-        //         int right = dp[i][j+1];
-        //         int down = dp[i+1][j];
-        //         int diagonal = dp[i+1][j+1];
+        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        // int n1=solve(matrix,0,0,ans,dp);
+        // return ans*ans;
+        for(int i = n-1;i>=0;i--)
+        {
+            for(int j = m-1;j>=0;j--)
+            {
+                int right = dp[i][j+1];
+                int down = dp[i+1][j];
+                int diagonal = dp[i+1][j+1];
                     
 
-        //         if(matrix[i][j] == '1')
-        //         {
-        //             dp[i][j] =  1 + min(right,min(down,diagonal));
+                if(matrix[i][j] == '1')
+                {
+                    dp[i][j] =  1 + min(right,min(down,diagonal));
 
-        //             ans = max(dp[i][j],ans);
-        //         }
-        //         else
-        //             dp[i][j] = 0;
-        //     }
-        // }
-        // return ans*ans;
+                    ans = max(dp[i][j],ans);
+                }
+                else
+                    dp[i][j] = 0;
+            }
+        }
+        return ans*ans;
     }
 };
