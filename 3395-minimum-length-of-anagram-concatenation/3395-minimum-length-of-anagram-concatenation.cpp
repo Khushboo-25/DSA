@@ -40,12 +40,12 @@ bool check(int sz,string s,int &n)
         }
         cout<<mnl<<" *";
         // int ans=n/mnl;
-        int len=mnl;
-        while(len<=n)
+        // int len=mnl;
+        while(mnl<=n)
         {
-            if(check(len,s,n))
-            return len;
-            len+=mnl;
+            if(check(mnl,s,n))
+            return mnl;
+            mnl*=2;
         }
         return n;
     }
