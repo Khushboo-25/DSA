@@ -25,12 +25,12 @@ public:
             int n1=f.size();
             for(int j=0;j<n1;j++)
             {
-                if(adj[f[j]].size()<2)
-                continue;
+                // if(adj[f[j]].size()<2)
+                // continue;
                 for(int k=j+1;k<n1;k++)
                 {
-                    if(adj[f[k]].size()<2)
-                continue;
+                //     if(adj[f[k]].size()<2)
+                // continue;
                     int x1=f[j];
                     int y1=f[k];
                     if(pp[x1][y1]==1 || pp[y1][x1]==1)
@@ -38,7 +38,6 @@ public:
                         
                     int cn1=adj[x1].size()-2+adj[y1].size()-2+adj[i].size()-2;
                     ans=min(ans,cn1);
-
                     }
                 }
             }
