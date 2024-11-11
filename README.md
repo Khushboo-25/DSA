@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Khushboo-25/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Khushboo-25/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Khushboo-25/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Khushboo-25/DSA/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Khushboo-25/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Khushboo-25/DSA/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0376-wiggle-subsequence) |
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
