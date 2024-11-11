@@ -14,13 +14,13 @@ bool check(int &x1,int &y1,int &x2,int &y2,int &x,int &y)
         int ans=0;
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<n;j++)
+            for(int j=i+1;j<n;j++)
             {
                 int cn=0;
                 for(int k=0;k<n;k++)
                 {
                     
-                    if(k!=i && k!=j && i!=j )
+                    if(k!=i && k!=j )
                     {
                         int x1=points[i][0];
                         int y1=points[i][1];
