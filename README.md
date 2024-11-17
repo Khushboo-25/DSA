@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Khushboo-25/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Khushboo-25/DSA/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Khushboo-25/DSA/tree/master/0087-scramble-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Khushboo-25/DSA/tree/master/0279-perfect-squares) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
