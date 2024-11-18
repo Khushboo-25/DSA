@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Khushboo-25/DSA/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Khushboo-25/DSA/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/Khushboo-25/DSA/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/Khushboo-25/DSA/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khushboo-25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Khushboo-25/DSA/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Khushboo-25/DSA/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/Khushboo-25/DSA/tree/master/0403-frog-jump) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
