@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0933-increasing-order-search-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Khushboo-25/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Khushboo-25/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
+| [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
+| [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Hash Table
 |  |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Khushboo-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0687-longest-univalue-path](https://github.com/Khushboo-25/DSA/tree/master/0687-longest-univalue-path) |
 | [0933-increasing-order-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0933-increasing-order-search-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Binary Tree
 |  |
@@ -458,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Khushboo-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0687-longest-univalue-path](https://github.com/Khushboo-25/DSA/tree/master/0687-longest-univalue-path) |
 | [0933-increasing-order-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0933-increasing-order-search-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
