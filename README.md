@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Khushboo-25/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Khushboo-25/DSA/tree/master/0413-arithmetic-slices) |
+| [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/Khushboo-25/DSA/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khushboo-25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/Khushboo-25/DSA/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Khushboo-25/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Khushboo-25/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Khushboo-25/DSA/tree/master/0413-arithmetic-slices) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Khushboo-25/DSA/tree/master/0518-coin-change-ii) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
+| [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Geometry
 |  |
