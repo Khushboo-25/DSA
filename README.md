@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Khushboo-25/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Khushboo-25/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Khushboo-25/DSA/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Khushboo-25/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
+| [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Khushboo-25/DSA/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Khushboo-25/DSA/tree/master/0313-super-ugly-number) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Khushboo-25/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
+| [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
 | [0763-special-binary-string](https://github.com/Khushboo-25/DSA/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Union Find
