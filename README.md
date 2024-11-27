@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Khushboo-25/DSA/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
