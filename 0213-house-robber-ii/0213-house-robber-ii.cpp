@@ -1,34 +1,31 @@
 class Solution {
 public:
-
-int call(int in,int t1,vector<int> nums,int n,vector<vector<int>> &dp)
+int call(int i,int n,int op,vector<int> &nums,vector<vector<int>> &dp)
 {
-    if(in>=n)
+    if(i>=n)
     return 0;
-    if(dp[in][t1]!=-1)
-    return dp[in][t1];
-    int sum=0;
-    if(t1==1) //tak
+    if(dp[i][op]!=-1)
+    return dp[i][op];
+    int ans=0;
+    if(op==1)//take
     {
-        sum=max(sum,nums[in]+call(in+1,0,nums,n,dp));
-        sum=max(sum,call(in+1,1,nums,n,dp));
+        
+        ans=max(ans,nums[i]+call(i+1,n,0,nums,dp));
+        ans=max(ans,call(i+1,n,1,nums,dp));
     }
     else
     {
-        sum=max(sum,call(in+1,1,nums,n,dp));
-        // sum=max(sum,call(in+1,1,nums,n,dp));
+        ans=max(ans,call(i+1,n,1,nums,dp));
     }
-    
-    return dp[in][t1]=sum;
+    return dp[i][op]=ans;
 }
-    
-    int rob(vector<int>& nums) {
-        
+    int rob(vector<int>& nums) 
+    {
         int n=nums.size();
-        if(nums.size()==1)
+        if(n==1)
         return nums[0];
-        vector<vector<int>> dp1(n+1,vector<int>(2,-1)),dp2(n+1,vector<int>(2,-1));
-        return max(call(0,1,nums,n-1,dp1),call(1,1,nums,n,dp2));
+        vector<vector<int>>dp1(n+1,vector<int>(2,-1)),dp2(n+1,vector<int>(2,-1));
+        return max(call(0,n-1,1,nums,dp1),call(1,n,1,nums,dp2));
         
     }
 };
