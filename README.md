@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Khushboo-25/DSA/tree/master/0213-house-robber-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Khushboo-25/DSA/tree/master/0221-maximal-square) |
+| [0274-h-index](https://github.com/Khushboo-25/DSA/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Khushboo-25/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Khushboo-25/DSA/tree/master/0312-burst-balloons) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0274-h-index](https://github.com/Khushboo-25/DSA/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Khushboo-25/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
@@ -646,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Khushboo-25/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
