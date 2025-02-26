@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Khushboo-25/DSA/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/Khushboo-25/DSA/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Khushboo-25/DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Khushboo-25/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Khushboo-25/DSA/tree/master/0312-burst-balloons) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Khushboo-25/DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Khushboo-25/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
