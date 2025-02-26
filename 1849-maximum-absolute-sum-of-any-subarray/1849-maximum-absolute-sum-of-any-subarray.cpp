@@ -2,23 +2,35 @@ class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) 
     {
-        
+        int mxp=0;
         int s=0,s1=0;
-        int mxp=0,mxn=0;
+        int mxn=0;
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
+            if(s+nums[i]<=nums[i])
+            {
+                s=max(s,nums[i]);
+            }
+            else
+            {
+                s+=nums[i];
+            }
+            mxp=max(mxp,s);
             
-                s=max(nums[i],s+nums[i]);
-                mxp=max(s,mxp);
-                s1=min(nums[i],s1+nums[i]);
-                mxn=min(s1,mxn);
-            
-            
+            if(s1+nums[i]>=nums[i])
+            {
+                s1=min(s1,nums[i]);
+            }
+            else
+            {
+                s1+=nums[i];
+            }
+            mxn=min(mxn,s1);
 
         }
-        // cout<<mxn<<" "<<mxp<<endl;
-        return max(abs(mxn),abs(mxp));
+        cout<<mxn<<" "<<mxp<<endl;
+        return max(abs(mxp),abs(mxn));
         
     }
 };
