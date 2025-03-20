@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Khushboo-25/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Khushboo-25/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/0085-maximal-rectangle) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Khushboo-25/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Khushboo-25/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Khushboo-25/DSA/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/Khushboo-25/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Khushboo-25/DSA/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
