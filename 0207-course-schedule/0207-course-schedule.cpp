@@ -23,11 +23,11 @@ bool cy(int i,vector<vector<int>>&adj,vector<int> &vv,vector<int>&pv)
             int y=it[1];
             adj[x].push_back(y);
         }
-        
+        vector<int>vv(n,0);
         for(int i=0;i<n;i++)
         {
-            vector<int>vv(n,0),pv(n,0);
-            if(cy(i,adj,vv,pv))
+            vector<int>pv(n,0);
+            if(vv[i]==0 && cy(i,adj,vv,pv))
             return 0;
         }
         return 1;
