@@ -24,9 +24,10 @@ bool cy(int i,vector<vector<int>>&adj,vector<int> &vv,vector<int>&pv)
             adj[x].push_back(y);
         }
         vector<int>vv(n,0);
+        vector<int>pv(n,0);
         for(int i=0;i<n;i++)
         {
-            vector<int>pv(n,0);
+            
             if(vv[i]==0 && cy(i,adj,vv,pv))
             return 0;
         }
