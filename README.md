@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Khushboo-25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/Khushboo-25/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Khushboo-25/DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Khushboo-25/DSA/tree/master/0337-house-robber-iii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Khushboo-25/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Khushboo-25/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Khushboo-25/DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Khushboo-25/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Khushboo-25/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Khushboo-25/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Khushboo-25/DSA/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Khushboo-25/DSA/tree/master/0547-number-of-provinces) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Khushboo-25/DSA/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Khushboo-25/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
