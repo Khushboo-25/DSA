@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Khushboo-25/DSA/tree/master/0213-house-robber-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Khushboo-25/DSA/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/Khushboo-25/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Khushboo-25/DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Khushboo-25/DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Khushboo-25/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Khushboo-25/DSA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Khushboo-25/DSA/tree/master/0713-subarray-product-less-than-k) |
