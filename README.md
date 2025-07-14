@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
+| [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
