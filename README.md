@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Khushboo-25/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Khushboo-25/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Khushboo-25/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Khushboo-25/DSA/tree/master/0377-combination-sum-iv) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Khushboo-25/DSA/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Khushboo-25/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
