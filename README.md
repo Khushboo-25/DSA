@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Khushboo-25/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Khushboo-25/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Khushboo-25/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
