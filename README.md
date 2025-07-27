@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Khushboo-25/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Khushboo-25/DSA/tree/master/0413-arithmetic-slices) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/Khushboo-25/DSA/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khushboo-25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Khushboo-25/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Khushboo-25/DSA/tree/master/0413-arithmetic-slices) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Khushboo-25/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
