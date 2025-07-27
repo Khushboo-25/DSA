@@ -1,20 +1,35 @@
 class Solution {
 public:
-    int numberOfArithmeticSlices(vector<int>& nums) {
-        int n = nums.size();
-        long long ans = 0;
+    int n;
+    vector<int> nums;
+    vector<unordered_map<long long, int>> dp;
 
-        vector<unordered_map<long long, int>> dp(n);
+    // This function returns how many subsequences of length ≥ 2 ending at i with 'diff'
+    int call(int i, long long diff) {
+        if (dp[i].count(diff))
+            return dp[i][diff];
+
+        int total = 0;
+        for (int j = 0; j < i; j++) {
+            if (1LL * nums[i] - nums[j] == diff) {
+                int prev = call(j, diff);
+                total += prev + 1;  // +1 for the pair (nums[j], nums[i])
+            }
+        }
+        return dp[i][diff] = total;
+    }
+
+    int numberOfArithmeticSlices(vector<int>& _nums) {
+        nums = _nums;
+        n = nums.size();
+        dp.resize(n);
+        long long ans = 0;
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
                 long long diff = 1LL * nums[i] - nums[j];
-                
-                int count_at_j = dp[j][diff];
-                dp[i][diff] += count_at_j + 1;
-
-                // Only count those that form length ≥ 3 subsequences
-                ans += count_at_j;
+                int prev = call(j, diff);
+                ans += prev;  // Only add subsequences of length ≥ 2 ending at j — extended to length ≥ 3 at i
             }
         }
         return ans;
