@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushboo-25/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Khushboo-25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/Khushboo-25/DSA/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Khushboo-25/DSA/tree/master/0279-perfect-squares) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Khushboo-25/DSA/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
