@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Khushboo-25/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Khushboo-25/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Khushboo-25/DSA/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Khushboo-25/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Khushboo-25/DSA/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Khushboo-25/DSA/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/Khushboo-25/DSA/tree/master/0567-permutation-in-string) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Khushboo-25/DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
