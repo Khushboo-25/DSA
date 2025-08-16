@@ -24,7 +24,7 @@ int call(int i,int &n,vector<int>&a,vector<int> &b,int vv,vector<vector<int>>&dp
     {
         int n=a.size();
         int vv=0;
-        vector<vector<int>>dp(n+1,vector<int>(1e6+1,-1));
+        vector<vector<int>>dp(n+1,vector<int>(1e5+1,-1));
         int ans=call(0,n,a,b,vv,dp);
         return ans;
         
