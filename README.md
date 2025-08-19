@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Khushboo-25/DSA/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/Khushboo-25/DSA/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/Khushboo-25/DSA/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Khushboo-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Khushboo-25/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Khushboo-25/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/Khushboo-25/DSA/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 ## Combinatorics
 |  |
