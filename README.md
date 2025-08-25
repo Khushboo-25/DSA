@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Khushboo-25/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Sliding Window
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
 | ------- |
