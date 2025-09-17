@@ -1,35 +1,41 @@
 class Solution {
 public:
-bool cy(int i,vector<vector<int>>&adj,vector<int> &vv,vector<int>&pv)
+bool cyc(int i,vector<int> &vv,vector<int>&pv,vector<vector<int>>&adj,int &n)
 {
     vv[i]=1;
     pv[i]=1;
     for(auto it: adj[i])
     {
-        if(pv[it]==1)
-        return 1;
-        if(vv[it]==0 && cy(it,adj,vv,pv))
-        return 1;
+        if(vv[it]==0)
+        {
+            if(cyc(it,vv,pv,adj,n))
+            return 1;
+        }
+        else if(pv[it]==1)
+        {
+            return 1;
+        }
     }
     pv[i]=0;
     return 0;
 }
-    bool canFinish(int n, vector<vector<int>>& edge) {
+    bool canFinish(int n, vector<vector<int>>& ed) {
         vector<vector<int>>adj(n);
-
-        for(auto it: edge)
+        for(auto it: ed)
         {
-            int x=it[0];
-            int y=it[1];
-            adj[x].push_back(y);
+            int e=it[0];
+            int s=it[1];
+            adj[s].push_back(e);
         }
         vector<int>vv(n,0);
-        vector<int>pv(n,0);
         for(int i=0;i<n;i++)
         {
-            
-            if(vv[i]==0 && cy(i,adj,vv,pv))
-            return 0;
+            if(vv[i]==0)
+            {
+                vector<int>pv(n,0);
+                if(cyc(i,vv,pv,adj,n))
+                return 0;
+            }
         }
         return 1;
     }
