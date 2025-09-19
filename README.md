@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Khushboo-25/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0206-reverse-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Khushboo-25/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
