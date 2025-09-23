@@ -1,5 +1,9 @@
 SELECT p.product_id,
-       COALESCE(t.new_price, 10) AS price
+case 
+when t.new_price is NULL then 10
+else t.new_price
+end 
+ AS price
 FROM (SELECT DISTINCT product_id FROM Products) p
 LEFT JOIN (
     SELECT product_id, new_price
