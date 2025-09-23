@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Khushboo-25/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Khushboo-25/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Khushboo-25/DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Khushboo-25/DSA/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/Khushboo-25/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Khushboo-25/DSA/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Khushboo-25/DSA/tree/master/1258-article-views-i) |
