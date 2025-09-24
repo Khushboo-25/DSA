@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Khushboo-25/DSA/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Khushboo-25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Khushboo-25/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
