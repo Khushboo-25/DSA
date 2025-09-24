@@ -8,27 +8,42 @@ public:
         return decode(s, i);
     }
 
-    string decode(const string& s, int& i) {
-      string result = "";
-      int num = 0;
-      while(i < s.size()) {
-        char c = s[i];
-        if (isdigit(c)) {
-          num = num * 10 + (c - '0'); // build number
-          i++;
-        } else if (c == '[') {
-          i++;
-          string inner = decode(s, i); // recurse
-          for (int k = 0; k < num; k++) result += inner;
-          num = 0; // reset
-        } else if (c == ']') {
-          i++; // skip ']'
-          return result; // return to caller
-        } else {
-          result += c; // ok, normal char
-          i++;
+    string decode(const string& s, int& i) 
+    {
+      string ans="";
+      int n=s.size();
+      int num=0;
+      while(i<n)
+      {
+        
+        if(isdigit(s[i]))
+        {
+            num=num*10+(s[i]-'0');
+            i++;
+        }
+        else if(s[i]=='[')
+        {
+            i++;
+            string ans1=decode(s,i);
+            for(int j=0;j<num;j++)
+            {
+                ans+=ans1;
+            }
+            num=0;
+        }
+        else if(s[i]==']')
+        {
+            i++;
+            return ans;
+        }
+        else
+        {
+            
+            ans+=s[i];
+            i++;
         }
       }
-      return result;
+
+      return ans;
     }
 };
