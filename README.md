@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Khushboo-25/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Khushboo-25/DSA/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Khushboo-25/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Khushboo-25/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushboo-25/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Khushboo-25/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
 | [0933-increasing-order-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0933-increasing-order-search-tree) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/Khushboo-25/DSA/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Khushboo-25/DSA/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/Khushboo-25/DSA/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Union Find
