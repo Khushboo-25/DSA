@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Khushboo-25/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Khushboo-25/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Depth-First Search
 |  |
