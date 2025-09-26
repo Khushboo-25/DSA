@@ -24,7 +24,6 @@ void call(Node* root, int &ans,int n1)
 {
     if(root==NULL)
     {
-        cout<<n1<<" ";
         
         return;
     }
