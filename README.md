@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Khushboo-25/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Khushboo-25/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Khushboo-25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Khushboo-25/DSA/tree/master/1448-maximum-69-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Khushboo-25/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Khushboo-25/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Khushboo-25/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Monotonic Stack
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
