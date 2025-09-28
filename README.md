@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Khushboo-25/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Khushboo-25/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0933-increasing-order-search-tree) |
+| [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
+| [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
