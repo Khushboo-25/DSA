@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Khushboo-25/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
+| [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Khushboo-25/DSA/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Khushboo-25/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Khushboo-25/DSA/tree/master/0733-flood-fill) |
+| [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Khushboo-25/DSA/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Khushboo-25/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Khushboo-25/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Khushboo-25/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Khushboo-25/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
