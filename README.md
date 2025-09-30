@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Khushboo-25/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Khushboo-25/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Khushboo-25/DSA/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Khushboo-25/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1300-critical-connections-in-a-network) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/Khushboo-25/DSA/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Khushboo-25/DSA/tree/master/1396-count-servers-that-communicate) |
