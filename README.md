@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
