@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Khushboo-25/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Khushboo-25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/Khushboo-25/DSA/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Khushboo-25/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Khushboo-25/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Khushboo-25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Khushboo-25/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Khushboo-25/DSA/tree/master/0733-flood-fill) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Khushboo-25/DSA/tree/master/0547-number-of-provinces) |
+| [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Khushboo-25/DSA/tree/master/0547-number-of-provinces) |
+| [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Khushboo-25/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
