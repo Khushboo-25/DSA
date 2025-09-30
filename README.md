@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Khushboo-25/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Khushboo-25/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Khushboo-25/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Khushboo-25/DSA/tree/master/2379-maximum-total-importance-of-roads) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Khushboo-25/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Khushboo-25/DSA/tree/master/3386-find-edges-in-shortest-paths) |
