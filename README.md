@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Khushboo-25/DSA/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Khushboo-25/DSA/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khushboo-25/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Khushboo-25/DSA/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Khushboo-25/DSA/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khushboo-25/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Khushboo-25/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Khushboo-25/DSA/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Khushboo-25/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/Khushboo-25/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1300-critical-connections-in-a-network) |
