@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Recursion
 |  |
 | ------- |
