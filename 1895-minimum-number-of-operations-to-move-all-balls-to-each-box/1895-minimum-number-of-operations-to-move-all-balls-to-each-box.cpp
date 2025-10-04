@@ -9,11 +9,11 @@ public:
         for(int i=1;i<n;i++)
         {
             lf[i]=lf[i-1]+cn;
-            cout<<lf[i]<<" ";
+            // cout<<lf[i]<<" ";
             if(bx[i]=='1')
             cn++;
         }
-        cout<<endl;
+        // cout<<endl;
         vector<int>rf(n,0);
         cn=(bx[n-1]-'0');
         for(int i=n-2;i>=0;i--)
