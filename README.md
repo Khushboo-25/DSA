@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Khushboo-25/DSA/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Khushboo-25/DSA/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Khushboo-25/DSA/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Khushboo-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Khushboo-25/DSA/tree/master/1448-maximum-69-number) |
