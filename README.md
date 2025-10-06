@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Khushboo-25/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Khushboo-25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Khushboo-25/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khushboo-25/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Khushboo-25/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Khushboo-25/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -1093,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0654-maximum-binary-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
