@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khushboo-25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Khushboo-25/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Khushboo-25/DSA/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Khushboo-25/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Khushboo-25/DSA/tree/master/0038-count-and-say) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khushboo-25/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Khushboo-25/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Khushboo-25/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Khushboo-25/DSA/tree/master/0069-sqrtx) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khushboo-25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Khushboo-25/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Khushboo-25/DSA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Khushboo-25/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Khushboo-25/DSA/tree/master/0127-word-ladder) |
