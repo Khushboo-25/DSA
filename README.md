@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khushboo-25/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Khushboo-25/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Khushboo-25/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Khushboo-25/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Khushboo-25/DSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Khushboo-25/DSA/tree/master/0095-unique-binary-search-trees-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Khushboo-25/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Khushboo-25/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Khushboo-25/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Khushboo-25/DSA/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/Khushboo-25/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
