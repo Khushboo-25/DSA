@@ -5,7 +5,7 @@ void call(int i,int &n,vector<int>&nums,vector<int>&a,unordered_map<int,bool>&pp
     if(i>=n)
     {
         ans.insert(a);
-        
+        return;
     }
     for(int j=0;j<n;j++)
     {
