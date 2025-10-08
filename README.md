@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Khushboo-25/DSA/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Khushboo-25/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Khushboo-25/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Khushboo-25/DSA/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/Khushboo-25/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Khushboo-25/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/Khushboo-25/DSA/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Khushboo-25/DSA/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Khushboo-25/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
