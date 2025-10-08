@@ -1,44 +1,37 @@
 class Solution {
 public:
-void bfs(int i,int j,vector<vector<int>> &vv,vector<vector<char>>& grid,int n,int m)
+vector<pair<int,int>>dr={{-1,0},{1,0},{0,-1},{0,1}};
+void call(int i,int j,int &n,int &m,vector<vector<char>>&grid,vector<vector<bool>>&vv)
 {
-    queue<pair<int,int>>pq;
-    pq.push({i,j});
     vv[i][j]=1;
-    vector<pair<int,int>>dr={{-1,0},{1,0},{0,1},{0,-1}};
-    while(!pq.empty())
+    for(auto it:dr)
     {
-        int x=pq.front().first;
-        int y=pq.front().second;
-        pq.pop();
-        for(auto it: dr)
+        int x=i+it.first;
+        int y=j+it.second;
+        if(x<n && x>=0 && y>=0 && y<m && vv[x][y]==0 && grid[x][y]=='1')
         {
-            int x1=x+it.first;
-            int y1=y+it.second;
-            if(x1>=0 && x1<n && y1>=0 && y1<m && vv[x1][y1]==0 && grid[x1][y1]=='1')
-            {
-                vv[x1][y1]=1;
-                pq.push({x1,y1});
-            }
+            call(x,y,n,m,grid,vv);
         }
     }
 }
     int numIslands(vector<vector<char>>& grid) 
     {
         int n=grid.size(),m=grid[0].size();
-        vector<vector<int>>vv(n,vector<int>(m,0));
-        int cn=0;
+        vector<vector<bool>>vv(n,vector<bool>(m,0));
+        int ans=0;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
                 if(vv[i][j]==0 && grid[i][j]=='1')
                 {
-                    bfs(i,j,vv,grid,n,m);
-                    cn++;
+                    ans++;
+                    call(i,j,n,m,grid,vv);
                 }
             }
         }
-        return cn;
+        return ans;
+
+        
     }
 };
