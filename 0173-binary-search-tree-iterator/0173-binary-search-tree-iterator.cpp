@@ -12,32 +12,34 @@
 class BSTIterator {
 public:
 TreeNode* ans=NULL;
-vector<int>pv;
-int i=0;
-void pre(TreeNode* root)
+int ps=0;
+vector<int>in;
+void update(TreeNode* root)
 {
     if(root==NULL)
-    return ;
-    pre(root->left);
-    pv.push_back(root->val);
-    pre(root->right);
+    {
+        return;
+    }
+    update(root->left);
+    in.push_back(root->val);
+    update(root->right);
 }
     BSTIterator(TreeNode* root) {
         ans=root;
-        pv.clear();
-        pre(root);
+        update(ans);
     }
     
-    int next() {
-        return pv[i++];
-    }
-    
-    bool hasNext() 
+    int next() 
     {
-        if(i<pv.size())
+        if(ps<in.size())
+        return in[ps++];
+        return -1;
+    }
+    
+    bool hasNext() {
+        if(ps<in.size())
         return 1;
         return 0;
-        
     }
 };
 
