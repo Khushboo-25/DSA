@@ -1,51 +1,42 @@
 class LRUCache {
 public:
-  unordered_map<int, list<int>::iterator> pp1;
-      unordered_map<int,int>pp;
-      int sz=0;
-      list<int> st;
-    LRUCache(int cap) {
-        sz=cap;
+unordered_map<int,list<int>::iterator>pp1; // key->position
+unordered_map<int,int>pp; // key->val
+int sz=0;
+list<int>st; //list
+    LRUCache(int cp)
+    {
+        sz=cp;
     }
-    
-    int get(int key) {
-        
-        if(pp.find(key)!=pp.end())
-        {
-            st.erase(pp1[key]);
-        st.push_front(key);
-        pp1[key]=st.begin();
-        return pp[key];
-        }
-        return -1;
-        
-        // your code here
-    }
-
-    // Function for storing key-value pair.
-    void put(int key, int value) 
+    int get(int key)
     {
         if(pp.find(key)==pp.end())
+        return -1;
+        st.erase(pp1[key]); // erase it
+        st.push_front(key); // insert
+        pp1[key]=st.begin(); //update position
+        return pp[key]; // remain same
+    }
+    void put(int key, int value)
+    {
+        if(pp.find(key)==pp.end()) // not there
         {
-            if(pp.size()==sz)
+            if(st.size()==sz) //full
             {
                 int last=st.back();
-                st.pop_back();
-                pp.erase(last);
                 pp1.erase(last);
+                pp.erase(last);
+                st.pop_back();
             }
         }
         else
         {
             st.erase(pp1[key]);
-            pp.erase(key);
             pp1.erase(key);
         }
         pp[key]=value;
         st.push_front(key);
         pp1[key]=st.begin();
-        
-        // your code here
     }
 };
 
