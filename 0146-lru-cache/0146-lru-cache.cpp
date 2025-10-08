@@ -1,42 +1,50 @@
 class LRUCache {
 public:
-unordered_map<int,list<int>::iterator>pp1; // key->position
-unordered_map<int,int>pp; // key->val
+list<int> cache; //cache
+unordered_map<int,list<int>::iterator>psn; //key->position
+unordered_map<int,int>pp; // key->value
 int sz=0;
-list<int>st; //list
-    LRUCache(int cp)
+    LRUCache(int cap) 
     {
-        sz=cp;
+        sz=cap;
     }
-    int get(int key)
+    
+    int get(int key) 
     {
-        if(pp.find(key)==pp.end())
-        return -1;
-        st.erase(pp1[key]); // erase it
-        st.push_front(key); // insert
-        pp1[key]=st.begin(); //update position
-        return pp[key]; // remain same
-    }
-    void put(int key, int value)
-    {
-        if(pp.find(key)==pp.end()) // not there
+        if(psn.find(key)==psn.end()) // not there
         {
-            if(st.size()==sz) //full
-            {
-                int last=st.back();
-                pp1.erase(last);
-                pp.erase(last);
-                st.pop_back();
-            }
+            return -1;
         }
         else
         {
-            st.erase(pp1[key]);
-            pp1.erase(key);
+            cache.erase(psn[key]);
+            psn.erase(key);
+            cache.push_front(key);
+            psn[key]=cache.begin();
+            return pp[key];
         }
+    }
+    
+    void put(int key, int value) 
+    {
+        if(psn.find(key)==psn.end()) // not there
+        {
+            if(cache.size()==sz) // full
+            {
+                int last=cache.back();
+                cache.erase(psn[last]);
+                psn.erase(last);
+                pp.erase(last);
+            }
+        }
+        else // there
+        {
+            cache.erase(psn[key]);
+            psn.erase(key);
+        }
+        cache.push_front(key);
+        psn[key]=cache.begin();
         pp[key]=value;
-        st.push_front(key);
-        pp1[key]=st.begin();
     }
 };
 
