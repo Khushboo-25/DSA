@@ -1,24 +1,25 @@
 class Solution {
 public:
-    //total water is trapped into the bars
     int trap(vector<int>& h) 
     {
-        int lf=0,rf=0;
         int n=h.size();
         int s=0,e=n-1;
+        int lv=0;
         int ans=0;
-        while(s<e)
+        while(s<=e)
         {
-            lf=max(lf,h[s]);
-            rf=max(rf,h[e]);
-            if(lf<=rf) 
+            if(h[s]<h[e]) // mnh lv 
             {
-                ans+=lf-h[s];
+                if(lv>=h[s])
+                ans+=lv-h[s];
+                lv=max(lv,h[s]);
                 s++;
             }
             else
             {
-                ans+=rf-h[e];
+                if(lv>=h[e])
+                ans+=lv-h[e];
+                lv=max(lv,h[e]);
                 e--;
             }
         }
