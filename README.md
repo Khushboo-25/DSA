@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Khushboo-25/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Khushboo-25/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Khushboo-25/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Khushboo-25/DSA/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Khushboo-25/DSA/tree/master/0213-house-robber-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Khushboo-25/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Khushboo-25/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Khushboo-25/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Khushboo-25/DSA/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Khushboo-25/DSA/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Khushboo-25/DSA/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Khushboo-25/DSA/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Khushboo-25/DSA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Bitmask
