@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Khushboo-25/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Khushboo-25/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Stack
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Khushboo-25/DSA/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1380-number-of-closed-islands](https://github.com/Khushboo-25/DSA/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Khushboo-25/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1487-cinema-seat-allocation](https://github.com/Khushboo-25/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
