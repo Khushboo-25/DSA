@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khushboo-25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/Khushboo-25/DSA/tree/master/0763-special-binary-string) |
+| [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Khushboo-25/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Khushboo-25/DSA/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Khushboo-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Khushboo-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Khushboo-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Khushboo-25/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Khushboo-25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khushboo-25/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1134,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1396-count-servers-that-communicate](https://github.com/Khushboo-25/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
