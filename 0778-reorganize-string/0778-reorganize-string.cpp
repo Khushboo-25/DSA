@@ -2,45 +2,41 @@ class Solution {
 public:
     string reorganizeString(string s) 
     {
-        unordered_map<char,int>pp;
-        for(auto it:s)
-        {
-            pp[it]++;
-        }
-        vector<pair<int,char>>p1;
-        for(auto it:pp)
-        {
-            p1.push_back({it.second,it.first});
-        }
-        sort(p1.rbegin(),p1.rend());
-        int n=s.size();
-        s="";
-        for(auto it:p1)
-        {
-            while(it.first--)
-            {
-                s+=it.second;
-            }
-        }
-        string s1=s;
-        int ci=0;
-        for(int i=0;i<n;i+=2)
-        {
-            s1[i]=s[ci];
-            ci++;
-        }
-        for(int i=1;i<n;i+=2)
-        {
-            s1[i]=s[ci];
-            ci++;
-        }
+    int n = s.size();
+    vector<int> freq(26, 0);
+    for (char c : s) freq[c - 'a']++;
 
-        for(int i=1;i<n;i++)
-        {
-            if(s1[i]==s1[i-1])
-            return "";
+    // Find max frequency and its character
+    int fm = 0, ch = 0;
+    for (int i = 0; i < 26; i++) {
+        if (freq[i] > fm) {
+            fm = freq[i];
+            ch = i;
         }
-        return s1;
-        
+    }
+
+    // If impossible to rearrange
+    if (fm > (n + 1) / 2) return "";
+
+    string ans(n, ' ');
+    int idx = 0;
+     // Place max freq char at even indices
+    while (freq[ch] > 0) {
+        ans[idx] = (char)(ch + 'a');
+        idx += 2;
+        freq[ch]--;
+    }
+
+    // Fill remaining chars
+    for (int i = 0; i < 26; i++) {
+        while (freq[i] > 0) {
+            if (idx >= n) idx = 1; // move to odd indices
+            ans[idx] = (char)(i + 'a');
+            idx += 2;
+            freq[i]--;
+        }
+    }
+
+    return ans;
     }
 };
