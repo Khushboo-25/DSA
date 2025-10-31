@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
