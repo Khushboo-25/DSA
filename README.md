@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
+| [4042-minimum-operations-to-transform-array](https://github.com/Khushboo-25/DSA/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Khushboo-25/DSA/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Matrix
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
+| [4042-minimum-operations-to-transform-array](https://github.com/Khushboo-25/DSA/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Khushboo-25/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
