@@ -5,15 +5,16 @@ public:
         int n=nums.size();
         
         vector<int> ans(n,2);
+        int an=2;
         for(int i=2;i<n;i++)
         {
             if(nums[i]==(nums[i-1]+nums[i-2]))
             {
                 ans[i]=ans[i-1]+1;
             }
-            cout<<ans[i]<<" ";
+            an=max(ans[i],an);
         }
-        return*max_element(ans.begin(),ans.end());
+        return an;
         
     }
 };
