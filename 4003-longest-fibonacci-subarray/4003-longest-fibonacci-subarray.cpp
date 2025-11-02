@@ -4,15 +4,17 @@ public:
     {
         int n=nums.size();
         
-        vector<int> ans(n,2);
+        int prev=2;
         int an=2;
         for(int i=2;i<n;i++)
         {
             if(nums[i]==(nums[i-1]+nums[i-2]))
             {
-                ans[i]=ans[i-1]+1;
+                prev++;
             }
-            an=max(ans[i],an);
+            else
+            prev=2;
+            an=max(prev,an);
         }
         return an;
         
