@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4042-minimum-operations-to-transform-array](https://github.com/Khushboo-25/DSA/tree/master/4042-minimum-operations-to-transform-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 | [4058-compute-alternating-sum](https://github.com/Khushboo-25/DSA/tree/master/4058-compute-alternating-sum) |
+| [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Khushboo-25/DSA/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Greedy
 |  |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 | [4052-equal-score-substrings](https://github.com/Khushboo-25/DSA/tree/master/4052-equal-score-substrings) |
+| [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Khushboo-25/DSA/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Depth-First Search
 |  |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
+| [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 ## Doubly-Linked List
 |  |
 | ------- |
