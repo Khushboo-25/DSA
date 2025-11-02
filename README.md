@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Khushboo-25/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Khushboo-25/DSA/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Khushboo-25/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Khushboo-25/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Khushboo-25/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushboo-25/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Khushboo-25/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Khushboo-25/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Khushboo-25/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Khushboo-25/DSA/tree/master/0204-count-primes) |
