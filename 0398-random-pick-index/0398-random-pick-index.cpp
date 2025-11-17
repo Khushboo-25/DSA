@@ -1,23 +1,18 @@
 class Solution {
 public:
-vector<int>st;
+unordered_map<int,vector<int>>pp;
 
     Solution(vector<int>& nums) {
-        for(auto it:nums)
+        int sz=nums.size();
+        for(int i=0;i<sz;i++)
         {
-            st.push_back(it);
+            pp[nums[i]].push_back(i);
         }
     }
     
     int pick(int target) {
-        vector<int>av;
+        vector<int>av=pp[target];
         
-        int n=st.size();
-        for(int i=0;i<n;i++)
-        {
-            if(st[i]==target)
-            av.push_back(i);
-        }
         int rn=rand()%(av.size());
         return av[rn];
     }
