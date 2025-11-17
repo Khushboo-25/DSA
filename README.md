@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Khushboo-25/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Khushboo-25/DSA/tree/master/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Khushboo-25/DSA/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Khushboo-25/DSA/tree/master/4098-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Matrix
 |  |
 | ------- |
