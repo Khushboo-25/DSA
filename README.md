@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Khushboo-25/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1361,12 +1362,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Khushboo-25/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1401,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Khushboo-25/DSA/tree/master/0572-subtree-of-another-tree) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Iterator
 |  |
 | ------- |
