@@ -28,7 +28,7 @@ int call(int k,vector<int>&pp)
         {
             int n1=call(a[i],pp);
             nw.push_back({n1,i});
-            cout<<n1<<" "<<a[i]<<endl;
+            // cout<<n1<<" "<<a[i]<<endl;
         }
         sort(nw.begin(),nw.end());
         vector<int>ans;
