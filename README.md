@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khushboo-25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Khushboo-25/DSA/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
+| [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Khushboo-25/DSA/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/Khushboo-25/DSA/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1325,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
+| [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
