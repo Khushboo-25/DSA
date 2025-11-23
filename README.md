@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/Khushboo-25/DSA/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
+| [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Khushboo-25/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Khushboo-25/DSA/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
+| [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Khushboo-25/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0881-loud-and-rich](https://github.com/Khushboo-25/DSA/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Khushboo-25/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1026,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Khushboo-25/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Khushboo-25/DSA/tree/master/0801-is-graph-bipartite) |
+| [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0854-making-a-large-island](https://github.com/Khushboo-25/DSA/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Khushboo-25/DSA/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1077,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
+| [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khushboo-25/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
