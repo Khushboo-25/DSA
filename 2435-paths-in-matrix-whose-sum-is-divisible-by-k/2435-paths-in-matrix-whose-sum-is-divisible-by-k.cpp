@@ -31,7 +31,7 @@ int call(int i,int j,int rm,int &n,int &m,vector<vector<int>>&grid,int &k,vector
     {
         int n=grid.size();
         int m=grid[0].size();
-        vector<vector<vector<int>>>dp(n+1,vector<vector<int>>(m+1,vector<int>(k+1,-1)));
+        vector<vector<vector<int>>>dp(n,vector<vector<int>>(m,vector<int>(k,-1)));
         return call(n-1,m-1,(grid[n-1][m-1])%k,n,m,grid,k,dp);
 
     }
