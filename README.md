@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Khushboo-25/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-maximum-equal-frequency](https://github.com/Khushboo-25/DSA/tree/master/1224-maximum-equal-frequency) |
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Khushboo-25/DSA/tree/master/1293-three-consecutive-odds) |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khushboo-25/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1224-maximum-equal-frequency](https://github.com/Khushboo-25/DSA/tree/master/1224-maximum-equal-frequency) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushboo-25/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
