@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Greedy
