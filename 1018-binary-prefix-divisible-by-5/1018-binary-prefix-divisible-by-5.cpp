@@ -16,7 +16,7 @@ public:
             {
                 ans[i]=true;
             }
-            s=s%10;
+            s=s%5;
 
         }
         return ans;
