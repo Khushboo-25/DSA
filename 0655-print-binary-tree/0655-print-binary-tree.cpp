@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-void call(int h,TreeNode* root,vector<int>&in,unordered_map<int,int>&ht,int &mh,int &nc)
+void call(int h,TreeNode* root,unordered_map<int,int>&ht,int &mh,int &nc)
 {
     if(root==NULL)
     return;
     ht[root->val]=h;
     mh=max(mh,h);
     nc|=1<<h;
-    call(h+1,root->left,in,ht,mh,nc);
-    in.push_back(root->val);
-    call(h+1,root->right,in,ht,mh,nc);
+    call(h+1,root->left,ht,mh,nc);
+    // in.push_back(root->val);
+    call(h+1,root->right,ht,mh,nc);
 }
 void update(TreeNode* root,int s,int e,int rw,vector<vector<string>>&ans)
 {
@@ -34,12 +34,12 @@ void update(TreeNode* root,int s,int e,int rw,vector<vector<string>>&ans)
 }
     vector<vector<string>> printTree(TreeNode* root) 
     {
-        vector<int>in;
+        // vector<int>in;
         unordered_map<int,int>ht;
         int mh=0;
         
         int nc=0;
-        call(0,root,in,ht,mh,nc);
+        call(0,root,ht,mh,nc);
 
         vector<vector<string>>ans(mh+1,vector<string>(nc,""));
         update(root,0,nc-1,0,ans);
