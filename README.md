@@ -1260,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Khushboo-25/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Khushboo-25/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
 | [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
@@ -1390,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Khushboo-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
 |  |
@@ -1465,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
