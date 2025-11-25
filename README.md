@@ -979,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1276-closest-divisors](https://github.com/Khushboo-25/DSA/tree/master/1276-closest-divisors) |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Khushboo-25/DSA/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khushboo-25/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1224-maximum-equal-frequency](https://github.com/Khushboo-25/DSA/tree/master/1224-maximum-equal-frequency) |
