@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
+| [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Khushboo-25/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Khushboo-25/DSA/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Khushboo-25/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/Khushboo-25/DSA/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
@@ -1267,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
