@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Khushboo-25/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Khushboo-25/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushboo-25/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
