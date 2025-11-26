@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Khushboo-25/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Khushboo-25/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1380-number-of-closed-islands](https://github.com/Khushboo-25/DSA/tree/master/1380-number-of-closed-islands) |
+| [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
 | [1396-count-servers-that-communicate](https://github.com/Khushboo-25/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Khushboo-25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1469,11 +1471,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
+| [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
