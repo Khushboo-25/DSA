@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
+| [3115-maximum-prime-difference](https://github.com/Khushboo-25/DSA/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Khushboo-25/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Khushboo-25/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Khushboo-25/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/Khushboo-25/DSA/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Khushboo-25/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1334,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Khushboo-25/DSA/tree/master/2610-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/Khushboo-25/DSA/tree/master/3115-maximum-prime-difference) |
 ## Memoization
 |  |
 | ------- |
