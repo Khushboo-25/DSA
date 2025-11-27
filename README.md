@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Khushboo-25/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushboo-25/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
