@@ -8,12 +8,12 @@ public:
             if(it<0)
             {
                 pp[abs(k+it%k)%k]++;
-                cout<<it<<","<<abs(k+it%k)%k<<" ";
+                // cout<<it<<","<<abs(k+it%k)%k<<" ";
             }
             else
             {
             pp[it%k]++;
-            cout<<it<<","<<it%k<<" ";
+            // cout<<it<<","<<it%k<<" ";
             }
         }
         int ans=0;
