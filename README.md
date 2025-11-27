@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushboo-25/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1487-cinema-seat-allocation](https://github.com/Khushboo-25/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Khushboo-25/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Khushboo-25/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushboo-25/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1487-cinema-seat-allocation](https://github.com/Khushboo-25/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -1334,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1396-count-servers-that-communicate](https://github.com/Khushboo-25/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/Khushboo-25/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
