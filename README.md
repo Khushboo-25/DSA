@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Khushboo-25/DSA/tree/master/1333-sort-the-jumbled-numbers) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Khushboo-25/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1380-number-of-closed-islands](https://github.com/Khushboo-25/DSA/tree/master/1380-number-of-closed-islands) |
 | [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Khushboo-25/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/Khushboo-25/DSA/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Khushboo-25/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Khushboo-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
