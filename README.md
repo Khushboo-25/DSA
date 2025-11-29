@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/Khushboo-25/DSA/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/Khushboo-25/DSA/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Khushboo-25/DSA/tree/master/0831-masking-personal-information) |
 | [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
@@ -1524,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Khushboo-25/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Khushboo-25/DSA/tree/master/0796-rotate-string) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Iterator
 |  |
