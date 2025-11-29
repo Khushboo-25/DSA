@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Khushboo-25/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0459-repeated-substring-pattern](https://github.com/Khushboo-25/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Khushboo-25/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Khushboo-25/DSA/tree/master/0520-detect-capital) |
@@ -1525,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Khushboo-25/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Khushboo-25/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Khushboo-25/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Khushboo-25/DSA/tree/master/0796-rotate-string) |
