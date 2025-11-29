@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Khushboo-25/DSA/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/Khushboo-25/DSA/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
+| [0831-masking-personal-information](https://github.com/Khushboo-25/DSA/tree/master/0831-masking-personal-information) |
 | [0839-similar-string-groups](https://github.com/Khushboo-25/DSA/tree/master/0839-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
