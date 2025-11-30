@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Khushboo-25/DSA/tree/master/1580-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Khushboo-25/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Khushboo-25/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Khushboo-25/DSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Khushboo-25/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Khushboo-25/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Khushboo-25/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
