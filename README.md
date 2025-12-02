@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Khushboo-25/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Khushboo-25/DSA/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Khushboo-25/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Khushboo-25/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Khushboo-25/DSA/tree/master/0066-plus-one) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Khushboo-25/DSA/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Khushboo-25/DSA/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Khushboo-25/DSA/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/Khushboo-25/DSA/tree/master/0274-h-index) |
