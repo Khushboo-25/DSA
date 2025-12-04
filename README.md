@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Khushboo-25/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Khushboo-25/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Khushboo-25/DSA/tree/master/0120-triangle) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Khushboo-25/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Khushboo-25/DSA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Khushboo-25/DSA/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Khushboo-25/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Khushboo-25/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Khushboo-25/DSA/tree/master/0139-word-break) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Khushboo-25/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -1266,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Khushboo-25/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -1486,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
