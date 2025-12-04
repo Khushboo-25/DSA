@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Khushboo-25/DSA/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Khushboo-25/DSA/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Khushboo-25/DSA/tree/master/0932-beautiful-array) |
 | [0940-fruit-into-baskets](https://github.com/Khushboo-25/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
+| [0932-beautiful-array](https://github.com/Khushboo-25/DSA/tree/master/0932-beautiful-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Khushboo-25/DSA/tree/master/0772-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/Khushboo-25/DSA/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Khushboo-25/DSA/tree/master/0932-beautiful-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Khushboo-25/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
