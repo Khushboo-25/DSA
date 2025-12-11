@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Khushboo-25/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Khushboo-25/DSA/tree/master/1127-last-stone-weight) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Khushboo-25/DSA/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Khushboo-25/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Khushboo-25/DSA/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Khushboo-25/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Khushboo-25/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Khushboo-25/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Khushboo-25/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khushboo-25/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1224-maximum-equal-frequency](https://github.com/Khushboo-25/DSA/tree/master/1224-maximum-equal-frequency) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
