@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/Khushboo-25/DSA/tree/master/1402-reducing-dishes) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Khushboo-25/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Khushboo-25/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Khushboo-25/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Khushboo-25/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Khushboo-25/DSA/tree/master/1402-reducing-dishes) |
 | [1448-maximum-69-number](https://github.com/Khushboo-25/DSA/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/Khushboo-25/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1408,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0654-maximum-binary-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
