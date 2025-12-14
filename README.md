@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushboo-25/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Khushboo-25/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khushboo-25/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushboo-25/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Khushboo-25/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushboo-25/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Khushboo-25/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Khushboo-25/DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
