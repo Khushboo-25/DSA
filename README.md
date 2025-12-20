@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3686-number-of-stable-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Greedy
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -1566,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Khushboo-25/DSA/tree/master/0932-beautiful-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Khushboo-25/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
@@ -1632,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Khushboo-25/DSA/tree/master/0324-wiggle-sort-ii) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Brainteaser
 |  |
 | ------- |
