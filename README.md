@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Khushboo-25/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Khushboo-25/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Khushboo-25/DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Khushboo-25/DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Binary Tree
 |  |
@@ -1369,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Khushboo-25/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
