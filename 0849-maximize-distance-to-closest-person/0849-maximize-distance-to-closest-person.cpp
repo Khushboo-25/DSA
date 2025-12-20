@@ -22,7 +22,7 @@ public:
         }
         for(int i=0;i<n;i++)
         {
-            cout<<lf[i]<<" "<<rf[i]<<endl;
+            // cout<<lf[i]<<" "<<rf[i]<<endl;
             seats[i]=min(lf[i],rf[i]);
 
         }
