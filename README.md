@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Khushboo-25/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Khushboo-25/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khushboo-25/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Khushboo-25/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/Khushboo-25/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1590-make-sum-divisible-by-p](https://github.com/Khushboo-25/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Khushboo-25/DSA/tree/master/1664-ways-to-make-a-fair-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khushboo-25/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Khushboo-25/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Khushboo-25/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Khushboo-25/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khushboo-25/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1925-count-square-sum-triples](https://github.com/Khushboo-25/DSA/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
