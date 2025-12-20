@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Khushboo-25/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Khushboo-25/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Khushboo-25/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/Khushboo-25/DSA/tree/master/2058-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Khushboo-25/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Khushboo-25/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Khushboo-25/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khushboo-25/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1401,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
+| [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
 | [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
 ## Doubly-Linked List
