@@ -1001,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/Khushboo-25/DSA/tree/master/2455-node-with-highest-edge-score) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Khushboo-25/DSA/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2924-find-champion-ii](https://github.com/Khushboo-25/DSA/tree/master/2924-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Khushboo-25/DSA/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
