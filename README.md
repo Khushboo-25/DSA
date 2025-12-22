@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Khushboo-25/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2923-find-champion-i](https://github.com/Khushboo-25/DSA/tree/master/2923-find-champion-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2923-find-champion-i](https://github.com/Khushboo-25/DSA/tree/master/2923-find-champion-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Khushboo-25/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
