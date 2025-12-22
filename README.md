@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Khushboo-25/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Khushboo-25/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
 | [3115-maximum-prime-difference](https://github.com/Khushboo-25/DSA/tree/master/3115-maximum-prime-difference) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Khushboo-25/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
