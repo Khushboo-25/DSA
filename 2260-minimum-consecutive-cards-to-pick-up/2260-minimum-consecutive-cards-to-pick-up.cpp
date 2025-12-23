@@ -1,43 +1,24 @@
 class Solution {
 public:
-bool call(int &sz,int &n,vector<int>&a)
-{
-    unordered_map<int,int>pp;
-    for(int i=0;i<sz;i++)
+
+    int minimumCardPickup(vector<int>&a) 
     {
-        pp[a[i]]++;
-    }
-    if(pp.size()<sz)
-    return 1;
-    for(int i=sz;i<n;i++)
-    {
-        pp[a[i]]++;
-        if(pp[a[i-sz]]==1)
-        {
-            pp.erase(a[i-sz]);
-        }
-        else
-        pp[a[i-sz]]--;
-        if(pp.size()<sz)
-        return 1;
-    }
-    return 0;
-}
-    int minimumCardPickup(vector<int>& cards) 
-    {
-        int n=cards.size();
+        int n=a.size();
+        int lt=0;
         int ans=n+1;
-        int s=1,e=n;
-        while(s<=e)
+        unordered_map<int,int>pp;
+        for(int i=0;i<n;i++)
         {
-            int m=s+(e-s)/2;
-            if(call(m,n,cards))
+            pp[a[i]]++;
+            while(pp.size()<i-lt+1)
             {
-                ans=m;
-                e=m-1;
+                ans=min(ans,i-lt+1);
+                if(pp[a[lt]]==1)
+                pp.erase(a[lt]);
+                else
+                pp[a[lt]]--;
+                lt++;
             }
-            else
-            s=m+1;
         }
         if(ans==n+1)
         return -1;
