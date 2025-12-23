@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Khushboo-25/DSA/tree/master/3249-count-the-number-of-good-nodes) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Khushboo-25/DSA/tree/master/3386-find-edges-in-shortest-paths) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -1363,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Khushboo-25/DSA/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Tree
 |  |
 | ------- |
