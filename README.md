@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3295-report-spam-message](https://github.com/Khushboo-25/DSA/tree/master/3295-report-spam-message) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3295-report-spam-message](https://github.com/Khushboo-25/DSA/tree/master/3295-report-spam-message) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3295-report-spam-message](https://github.com/Khushboo-25/DSA/tree/master/3295-report-spam-message) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khushboo-25/DSA/tree/master/3623-count-number-of-trapezoids-i) |
