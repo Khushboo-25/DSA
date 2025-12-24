@@ -1139,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Khushboo-25/DSA/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Khushboo-25/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Khushboo-25/DSA/tree/master/2235-add-two-integers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
