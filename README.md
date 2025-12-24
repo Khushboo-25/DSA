@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushboo-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 | [4052-equal-score-substrings](https://github.com/Khushboo-25/DSA/tree/master/4052-equal-score-substrings) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-number-of-stable-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khushboo-25/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -1561,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/Khushboo-25/DSA/tree/master/1925-count-square-sum-triples) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Bitmask
