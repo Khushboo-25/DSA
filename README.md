@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Khushboo-25/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Khushboo-25/DSA/tree/master/4042-minimum-operations-to-transform-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushboo-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Khushboo-25/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
