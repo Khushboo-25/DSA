@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Khushboo-25/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Khushboo-25/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Khushboo-25/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Khushboo-25/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Khushboo-25/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
 | [1580-shuffle-the-array](https://github.com/Khushboo-25/DSA/tree/master/1580-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Khushboo-25/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Khushboo-25/DSA/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/Khushboo-25/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Khushboo-25/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
