@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Khushboo-25/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Khushboo-25/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Khushboo-25/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Khushboo-25/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khushboo-25/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushboo-25/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Khushboo-25/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Khushboo-25/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Khushboo-25/DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Khushboo-25/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Khushboo-25/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khushboo-25/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Khushboo-25/DSA/tree/master/2379-maximum-total-importance-of-roads) |
@@ -1320,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Khushboo-25/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Khushboo-25/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Khushboo-25/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khushboo-25/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
