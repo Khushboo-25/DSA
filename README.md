@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Khushboo-25/DSA/tree/master/3430-count-days-without-meetings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Khushboo-25/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Khushboo-25/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Khushboo-25/DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Khushboo-25/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushboo-25/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
