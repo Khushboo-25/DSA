@@ -1158,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Khushboo-25/DSA/tree/master/2481-strictly-palindromic-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Khushboo-25/DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Khushboo-25/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Khushboo-25/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Khushboo-25/DSA/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
