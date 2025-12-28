@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Khushboo-25/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Khushboo-25/DSA/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Khushboo-25/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Khushboo-25/DSA/tree/master/4042-minimum-operations-to-transform-array) |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -1211,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Khushboo-25/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Khushboo-25/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
@@ -1587,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/Khushboo-25/DSA/tree/master/1925-count-square-sum-triples) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
