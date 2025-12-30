@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Khushboo-25/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Khushboo-25/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/Khushboo-25/DSA/tree/master/0875-longest-mountain-in-array) |
+| [1861-rotating-the-box](https://github.com/Khushboo-25/DSA/tree/master/1861-rotating-the-box) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushboo-25/DSA/tree/master/2109-adding-spaces-to-a-string) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Khushboo-25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-sum-of-unique-elements](https://github.com/Khushboo-25/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Khushboo-25/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1861-rotating-the-box](https://github.com/Khushboo-25/DSA/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Khushboo-25/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Khushboo-25/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/Khushboo-25/DSA/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
