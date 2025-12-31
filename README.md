@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Khushboo-25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Khushboo-25/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Khushboo-25/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Khushboo-25/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Khushboo-25/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Khushboo-25/DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Khushboo-25/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Khushboo-25/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/Khushboo-25/DSA/tree/master/2235-add-two-integers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
