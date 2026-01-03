@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Khushboo-25/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Khushboo-25/DSA/tree/master/1895-largest-magic-square) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Khushboo-25/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Khushboo-25/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Khushboo-25/DSA/tree/master/1861-rotating-the-box) |
+| [1895-largest-magic-square](https://github.com/Khushboo-25/DSA/tree/master/1895-largest-magic-square) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Khushboo-25/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/Khushboo-25/DSA/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Khushboo-25/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
