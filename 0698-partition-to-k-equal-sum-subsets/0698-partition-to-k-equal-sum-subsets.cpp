@@ -29,6 +29,7 @@ bool call(vector<int>&ks,int i,int &n,vector<int>&nums,int &k,int &sm)
 }
     bool canPartitionKSubsets(vector<int>&nums,int&k)
     {
+        
         int n=nums.size();
         vector<int>ks(k,0);
         int sm=0;
@@ -36,10 +37,14 @@ bool call(vector<int>&ks,int i,int &n,vector<int>&nums,int &k,int &sm)
         {
             sm+=it;
         }
+        
         sort(nums.begin(),nums.end());
+        
         if(sm%k!=0)
         return 0;
         sm/=k;
+        
+        if (nums[n-1] > sm) return 0;
         return call(ks,0,n,nums,k,sm);
         
     }
