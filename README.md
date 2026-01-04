@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Khushboo-25/DSA/tree/master/0518-coin-change-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khushboo-25/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/Khushboo-25/DSA/tree/master/0773-sliding-puzzle) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Khushboo-25/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/Khushboo-25/DSA/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/Khushboo-25/DSA/tree/master/0784-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Khushboo-25/DSA/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Khushboo-25/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Khushboo-25/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Khushboo-25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1243,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/Khushboo-25/DSA/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Khushboo-25/DSA/tree/master/0784-letter-case-permutation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khushboo-25/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
@@ -1627,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Khushboo-25/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/Khushboo-25/DSA/tree/master/0773-sliding-puzzle) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Khushboo-25/DSA/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1664,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/Khushboo-25/DSA/tree/master/0805-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Khushboo-25/DSA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
