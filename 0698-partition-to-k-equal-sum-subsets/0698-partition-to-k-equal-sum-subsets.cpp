@@ -38,13 +38,13 @@ bool call(vector<int>&ks,int i,int &n,vector<int>&nums,int &k,int &sm)
             sm+=it;
         }
         
-        sort(nums.begin(),nums.end());
+        sort(nums.rbegin(),nums.rend());
         
         if(sm%k!=0)
         return 0;
         sm/=k;
         
-        if (nums[n-1] > sm) return 0;
+        if (nums[0] > sm) return 0;
         return call(ks,0,n,nums,k,sm);
         
     }
