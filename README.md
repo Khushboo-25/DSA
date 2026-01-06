@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khushboo-25/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Khushboo-25/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## String
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Khushboo-25/DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Khushboo-25/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Khushboo-25/DSA/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Khushboo-25/DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
