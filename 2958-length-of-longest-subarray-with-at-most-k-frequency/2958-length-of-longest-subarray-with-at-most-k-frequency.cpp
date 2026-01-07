@@ -15,12 +15,7 @@ public:
             {
                 while(s<=e && pp[nums[e]]>k)
                 {
-                    if(pp[nums[s]]>1)
-                    {
-                        pp[nums[s++]]--;
-                    }
-                    else
-                    pp.erase(nums[s++]);
+                    pp[nums[s++]]--;
                 }
             }
             ans=max(ans,e-s+1);
