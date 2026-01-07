@@ -1,61 +1,30 @@
 class Solution {
 public:
-bool call(int &sz,vector<int>&nums,int &n,int &k)
-{
-    unordered_map<int,int>pp;
-    for(int i=0;i<sz;i++)
-    {
-        pp[nums[i]]++;
-    }
-    bool ps=1;
-    for(auto it:pp)
-    {
-        if(it.second>k)
-        {
-            ps=0;
-            break;
-        }
-    }
-    if(ps)
-    return 1;
-    for(int i=sz;i<n;i++)
-    {
-        pp[nums[i]]++;
-        if(pp[nums[i-sz]]>1)
-        pp[nums[i-sz]]--;
-        else
-        pp.erase(nums[i-sz]);
-        bool fs=1;
-        for(auto it:pp)
-        {
-            if(it.second>k)
-            {
-                fs=0;
-                break;
-            }
-        }
-        if(fs)
-        return 1;
-    }
-    return 0;
 
-}
     int maxSubarrayLength(vector<int>& nums, int k) 
     {
         int n=nums.size();
         int ans=0;
-        int s=1;
-        int e=n;
-        while(s<=e)
+        int s=0;
+        int e=0;
+        unordered_map<int,int>pp;
+        while(s<=e && e<n)
         {
-            int md=s+(e-s)/2;
-            if(call(md,nums,n,k))
+            pp[nums[e]]++;
+            if(pp[nums[e]]>k)
             {
-                ans=md;
-                s=md+1;
+                while(s<=e && pp[nums[e]]>k)
+                {
+                    if(pp[nums[s]]>1)
+                    {
+                        pp[nums[s++]]--;
+                    }
+                    else
+                    pp.erase(nums[s++]);
+                }
             }
-            else
-            e=md-1;
+            ans=max(ans,e-s+1);
+            e++;
         }
         return ans;
 
