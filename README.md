@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Khushboo-25/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1410-html-entity-parser](https://github.com/Khushboo-25/DSA/tree/master/1410-html-entity-parser) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Khushboo-25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1397,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Khushboo-25/DSA/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1410-html-entity-parser](https://github.com/Khushboo-25/DSA/tree/master/1410-html-entity-parser) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushboo-25/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1487-cinema-seat-allocation](https://github.com/Khushboo-25/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
