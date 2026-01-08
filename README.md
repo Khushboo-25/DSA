@@ -1220,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1154-day-of-the-year](https://github.com/Khushboo-25/DSA/tree/master/1154-day-of-the-year) |
 | [1276-closest-divisors](https://github.com/Khushboo-25/DSA/tree/master/1276-closest-divisors) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Khushboo-25/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [1363-largest-multiple-of-three](https://github.com/Khushboo-25/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Khushboo-25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1557,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Khushboo-25/DSA/tree/master/0382-linked-list-random-node) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Khushboo-25/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Khushboo-25/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/Khushboo-25/DSA/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
