@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Khushboo-25/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/Khushboo-25/DSA/tree/master/1014-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
+| [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Khushboo-25/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1224-maximum-equal-frequency](https://github.com/Khushboo-25/DSA/tree/master/1224-maximum-equal-frequency) |
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Khushboo-25/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Khushboo-25/DSA/tree/master/0907-koko-eating-bananas) |
+| [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Khushboo-25/DSA/tree/master/0778-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Khushboo-25/DSA/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Khushboo-25/DSA/tree/master/1333-sort-the-jumbled-numbers) |
