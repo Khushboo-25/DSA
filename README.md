@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Khushboo-25/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Khushboo-25/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2826-sorting-three-groups](https://github.com/Khushboo-25/DSA/tree/master/2826-sorting-three-groups) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Khushboo-25/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Khushboo-25/DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2826-sorting-three-groups](https://github.com/Khushboo-25/DSA/tree/master/2826-sorting-three-groups) |
 | [2923-find-champion-i](https://github.com/Khushboo-25/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushboo-25/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2826-sorting-three-groups](https://github.com/Khushboo-25/DSA/tree/master/2826-sorting-three-groups) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
