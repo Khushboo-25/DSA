@@ -23,16 +23,6 @@ int f(vector<int>&height){
         else rightsmall[i] = st.top()-1;
         st.push(i);
     }
-    for(auto it:height)
-    cout<<it<<" ";
-    cout<<endl;
-    for(auto it:leftsmall)
-    cout<<it<<" ";
-    cout<<endl;
-    for(auto it:rightsmall)
-    cout<<it<<" ";
-    cout<<endl;
-
     int maxans =0;
     for(int i=0;i<n;i++){
         maxans=max(maxans,height[i]*(rightsmall[i]-leftsmall[i]+1));
