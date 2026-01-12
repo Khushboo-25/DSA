@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Khushboo-25/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1324-print-words-vertically](https://github.com/Khushboo-25/DSA/tree/master/1324-print-words-vertically) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1410-html-entity-parser](https://github.com/Khushboo-25/DSA/tree/master/1410-html-entity-parser) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Khushboo-25/DSA/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Khushboo-25/DSA/tree/master/1293-three-consecutive-odds) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Khushboo-25/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1324-print-words-vertically](https://github.com/Khushboo-25/DSA/tree/master/1324-print-words-vertically) |
 | [1325-path-with-maximum-probability](https://github.com/Khushboo-25/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Khushboo-25/DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Khushboo-25/DSA/tree/master/1333-sort-the-jumbled-numbers) |
@@ -1610,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
+| [1324-print-words-vertically](https://github.com/Khushboo-25/DSA/tree/master/1324-print-words-vertically) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Khushboo-25/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
