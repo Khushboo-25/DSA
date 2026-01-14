@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Khushboo-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Khushboo-25/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushboo-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Khushboo-25/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushboo-25/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3033-modify-the-matrix](https://github.com/Khushboo-25/DSA/tree/master/3033-modify-the-matrix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
@@ -1711,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Khushboo-25/DSA/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1821,6 +1824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
@@ -1828,6 +1832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Khushboo-25/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Counting Sort
 |  |
@@ -1880,6 +1885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Khushboo-25/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Khushboo-25/DSA/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Khushboo-25/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Khushboo-25/DSA/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Iterator
