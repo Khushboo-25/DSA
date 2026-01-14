@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/Khushboo-25/DSA/tree/master/1324-print-words-vertically) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Khushboo-25/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1410-html-entity-parser](https://github.com/Khushboo-25/DSA/tree/master/1410-html-entity-parser) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Khushboo-25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Khushboo-25/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-reducing-dishes](https://github.com/Khushboo-25/DSA/tree/master/1402-reducing-dishes) |
+| [1408-string-matching-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Khushboo-25/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Khushboo-25/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Khushboo-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1884,6 +1886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Khushboo-25/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Khushboo-25/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Khushboo-25/DSA/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Khushboo-25/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Khushboo-25/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Khushboo-25/DSA/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
