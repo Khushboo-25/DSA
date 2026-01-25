@@ -23,7 +23,7 @@ public:
                 }
                 if(j+1<m)
                 ans=max(ans,mn[i][j+1]-grid[i][j]);
-                cout<<mn[i][j]<<" ";
+                // cout<<mn[i][j]<<" ";
             }
             cout<<endl;
         }
