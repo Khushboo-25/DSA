@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Khushboo-25/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3637-trionic-array-i](https://github.com/Khushboo-25/DSA/tree/master/3637-trionic-array-i) |
+| [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3686-number-of-stable-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Khushboo-25/DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Khushboo-25/DSA/tree/master/4042-minimum-operations-to-transform-array) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushboo-25/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khushboo-25/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Khushboo-25/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Khushboo-25/DSA/tree/master/3830-find-closest-person) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Khushboo-25/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -1332,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushboo-25/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
