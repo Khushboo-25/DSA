@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Khushboo-25/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3290-maximum-multiplication-score](https://github.com/Khushboo-25/DSA/tree/master/3290-maximum-multiplication-score) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Khushboo-25/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3290-maximum-multiplication-score](https://github.com/Khushboo-25/DSA/tree/master/3290-maximum-multiplication-score) |
 | [3295-report-spam-message](https://github.com/Khushboo-25/DSA/tree/master/3295-report-spam-message) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Khushboo-25/DSA/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
