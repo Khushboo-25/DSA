@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khushboo-25/DSA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Khushboo-25/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Khushboo-25/DSA/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1559-cherry-pickup-ii](https://github.com/Khushboo-25/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Khushboo-25/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Khushboo-25/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Khushboo-25/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
