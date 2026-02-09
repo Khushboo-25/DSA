@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/Khushboo-25/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/Khushboo-25/DSA/tree/master/1154-day-of-the-year) |
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Khushboo-25/DSA/tree/master/1014-best-sightseeing-pair) |
 | [1035-uncrossed-lines](https://github.com/Khushboo-25/DSA/tree/master/1035-uncrossed-lines) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
+| [1143-longest-common-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
