@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Khushboo-25/DSA/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Khushboo-25/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Khushboo-25/DSA/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Khushboo-25/DSA/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Khushboo-25/DSA/tree/master/0567-permutation-in-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Khushboo-25/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Khushboo-25/DSA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/Khushboo-25/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
