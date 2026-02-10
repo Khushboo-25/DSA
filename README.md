@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Khushboo-25/DSA/tree/master/3637-trionic-array-i) |
 | [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3686-number-of-stable-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3686-number-of-stable-subsequences) |
+| [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Khushboo-25/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/Khushboo-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Khushboo-25/DSA/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 | [4052-equal-score-substrings](https://github.com/Khushboo-25/DSA/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/Khushboo-25/DSA/tree/master/4059-design-exam-scores-tracker) |
@@ -1490,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khushboo-25/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Khushboo-25/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Khushboo-25/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -1833,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Khushboo-25/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Khushboo-25/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search Tree
@@ -1895,6 +1899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Khushboo-25/DSA/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [1395-count-number-of-teams](https://github.com/Khushboo-25/DSA/tree/master/1395-count-number-of-teams) |
+| [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
