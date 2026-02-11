@@ -1,25 +1,18 @@
 class Solution {
 public:
-int call(int in,int prev,vector<int> &nums,int &n,vector<vector<int>>&dp)
-{
-    if(in>=n)
-    return 0;
-    if(dp[in][prev+1]!=-1)
-    return dp[in][prev+1];
+    int lengthOfLIS(vector<int>& nums) {
+    vector<int> temp;
     
-    if(prev==-1 || nums[in]>nums[prev])
-    {
-        return dp[in][prev+1]=max(1+call(in+1,in,nums,n,dp),call(in+1,prev,nums,n,dp));
+    for(int x : nums) {
+        
+        auto it = lower_bound(temp.begin(), temp.end(), x)-temp.begin();
+        
+        if(it == temp.size())
+            temp.push_back(x);
+        else
+            temp[it]=x;
     }
-    else
-    return dp[in][prev+1]=call(in+1,prev,nums,n,dp);
+    
+    return temp.size();
 }
-    int lengthOfLIS(vector<int>& nums) 
-    {
-        int n=nums.size();
-        
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        return call(0,-1,nums,n,dp);
-        
-    }
 };
