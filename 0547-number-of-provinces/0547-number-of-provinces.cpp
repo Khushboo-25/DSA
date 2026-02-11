@@ -1,40 +1,44 @@
 class Solution {
 public:
-void call(vector<int>&vv,vector<vector<int>>&gp,int i)
+int findpr(int x,vector<int>&pr)
 {
-    vv[i]=1;
-    for(auto it: gp[i])
-    {
-        if(vv[it]==0)
-        call(vv,gp,it);
-    }
+    if(pr[x]==x)
+    return x;
+    pr[x]=findpr(pr[x],pr);
+    return pr[x];
 }
-    int findCircleNum(vector<vector<int>>&conn) 
+void update(int x,int y,vector<int>&pr)
+{
+    int px=findpr(x,pr);
+    int py=findpr(y,pr);
+    if(px<py)
+    pr[py]=px;
+    else
+    pr[px]=py;
+}
+    int findCircleNum(vector<vector<int>>& edges)
     {
-        int n=conn.size();
-        vector<vector<int>>gp(n);
+        int n=edges.size();
+        vector<int>pr(n,0);
+        for(int i=0;i<n;i++)
+        pr[i]=i;
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<n;j++)
+            for(int j=0;j<i;j++)
             {
-                if(i!=j&& conn[i][j]==1)
+                if(edges[i][j]==1)
                 {
-                    gp[i].push_back(j);
-                    gp[j].push_back(i);
+                    update(i,j,pr);
                 }
             }
         }
-        int ans=0;
-        vector<int> vv(n,0);
+        unordered_set<int>st;
         for(int i=0;i<n;i++)
         {
-            if(vv[i]==0)
-            {
-                ans++;
-                call(vv,gp,i);
-            }
+            pr[i]=findpr(i,pr);
+            st.insert(pr[i]);
         }
-        return ans;
+        return st.size();
         
     }
 };
