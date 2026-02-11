@@ -1,56 +1,60 @@
 class Solution {
 public:
-    bool call(int removeIdx, vector<vector<int>>& ed, int &n) {
-        vector<int> in(n+1, 0);  // indegree (1-based)
-        vector<vector<int>> adj(n+1);
-        
-        // Build graph without edge removeIdx
-        for (int j = 0; j < n; j++) {
-            if (j == removeIdx) continue;
-            int u = ed[j][0], v = ed[j][1];
-            in[v]++;
-            adj[u].push_back(v);
-        }
-
-        // check indegree condition
-        int root = -1;
-        for (int i = 1; i <= n; i++) {
-            if (in[i] == 0) {
-                if (root != -1) return false; // more than one root
-                root = i;
-            } else if (in[i] > 1) {
-                return false; // invalid indegree
-            }
-        }
-        if (root == -1) return false; // no root
-
-        // BFS/DFS to ensure connectivity and no cycle
-        vector<int> vis(n+1, 0);
-        int cnt = 0;
-        queue<int> q;
-        q.push(root);
-        vis[root] = 1;
-        while (!q.empty()) {
-            int u = q.front(); q.pop();
-            cnt++;
-            for (int v : adj[u]) {
-                if (vis[v]) return false; // cycle detected
-                vis[v] = 1;
-                q.push(v);
-            }
-        }
-
-        return cnt == n; // must visit all nodes
+    int findpr(int x, vector<int>& pr)
+    {
+        if(pr[x] == x) return x;
+        return pr[x] = findpr(pr[x], pr);
     }
 
-    vector<int> findRedundantDirectedConnection(vector<vector<int>>& ed) {
-        int n = ed.size();
-        for (int i = n-1; i >= 0; i--) { 
-            // try removing edges from last to first 
-            if (call(i, ed, n)) {
-                return ed[i];
-            }
+    bool check(int skip, vector<vector<int>>& edges)
+    {
+        int n = edges.size();
+        vector<int> pr(n+1);
+        vector<int> indegree(n+1, 0);
+
+        for(int i=1;i<=n;i++)
+            pr[i] = i;
+
+        for(int i=0;i<n;i++)
+        {
+            if(i == skip) continue;
+
+            int u = edges[i][0];
+            int v = edges[i][1];
+
+            indegree[v]++;
+            if(indegree[v] > 1)
+                return false;
+
+            int pu = findpr(u, pr);
+            int pv = findpr(v, pr);
+
+            if(pu == pv)
+                return false;
+
+            pr[pv] = pu;
         }
+
+        // Check exactly one root
+        int rootCount = 0;
+        for(int i=1;i<=n;i++)
+            if(indegree[i] == 0)
+                rootCount++;
+
+        if(rootCount != 1)
+            return false;
+
+        return true;
+    }
+
+    vector<int> findRedundantDirectedConnection(vector<vector<int>>& edges)
+    {
+        for(int i = edges.size()-1; i >= 0; i--)
+        {
+            if(check(i, edges))
+                return edges[i];
+        }
+
         return {};
     }
 };
