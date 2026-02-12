@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Khushboo-25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Khushboo-25/DSA/tree/master/3876-transform-array-to-all-equal-elements) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
 | [4003-longest-fibonacci-subarray](https://github.com/Khushboo-25/DSA/tree/master/4003-longest-fibonacci-subarray) |
@@ -1329,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Khushboo-25/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Khushboo-25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-find-closest-person](https://github.com/Khushboo-25/DSA/tree/master/3830-find-closest-person) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Khushboo-25/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Khushboo-25/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -1932,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Khushboo-25/DSA/tree/master/2481-strictly-palindromic-number) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Khushboo-25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## String Matching
 |  |
 | ------- |
@@ -1965,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Khushboo-25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Khushboo-25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Union-Find
 |  |
 | ------- |
