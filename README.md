@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushboo-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Khushboo-25/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -1513,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Khushboo-25/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khushboo-25/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Khushboo-25/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Khushboo-25/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Number Theory
@@ -1787,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2947-count-beautiful-substrings-i](https://github.com/Khushboo-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/Khushboo-25/DSA/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
