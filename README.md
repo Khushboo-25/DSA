@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## String
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Khushboo-25/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 | [4052-equal-score-substrings](https://github.com/Khushboo-25/DSA/tree/master/4052-equal-score-substrings) |
 | [4055-longest-balanced-substring-i](https://github.com/Khushboo-25/DSA/tree/master/4055-longest-balanced-substring-i) |
@@ -1694,6 +1696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Khushboo-25/DSA/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/Khushboo-25/DSA/tree/master/3931-process-string-with-special-operations-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Khushboo-25/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Khushboo-25/DSA/tree/master/4058-compute-alternating-sum) |
