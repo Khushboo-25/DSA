@@ -1,28 +1,27 @@
 class Solution {
 public:
-    int trap(vector<int>& h) 
+    int trap(vector<int>& ht) 
     {
-        int n=h.size();
-        int s=0,e=n-1;
+        int n=ht.size();
         int lv=0;
+        int s=0,e=n-1;
         int ans=0;
         while(s<=e)
         {
-            if(h[s]<h[e]) // mnh lv 
+            if(ht[s]<=ht[e])
             {
-                if(lv>=h[s])
-                ans+=lv-h[s];
-                lv=max(lv,h[s]);
+                lv=max(lv,ht[s]);
+                ans+=max(0,lv-ht[s]);
                 s++;
             }
             else
             {
-                if(lv>=h[e])
-                ans+=lv-h[e];
-                lv=max(lv,h[e]);
+                lv=max(lv,ht[e]);
+                ans+=max(0,lv-ht[e]);
                 e--;
             }
         }
         return ans;
+        
     }
 };
