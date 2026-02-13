@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Khushboo-25/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Khushboo-25/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Khushboo-25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/Khushboo-25/DSA/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
