@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Khushboo-25/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Khushboo-25/DSA/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Khushboo-25/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Khushboo-25/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Khushboo-25/DSA/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Khushboo-25/DSA/tree/master/0087-scramble-string) |
@@ -1262,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Khushboo-25/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Khushboo-25/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Khushboo-25/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Khushboo-25/DSA/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushboo-25/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Khushboo-25/DSA/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Khushboo-25/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Khushboo-25/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1685,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Khushboo-25/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Khushboo-25/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
