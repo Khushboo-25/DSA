@@ -1357,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Khushboo-25/DSA/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Khushboo-25/DSA/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Khushboo-25/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Khushboo-25/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Khushboo-25/DSA/tree/master/0389-find-the-difference) |
@@ -1869,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Khushboo-25/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Khushboo-25/DSA/tree/master/0324-wiggle-sort-ii) |
