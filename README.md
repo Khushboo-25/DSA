@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Khushboo-25/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Khushboo-25/DSA/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/0654-maximum-binary-tree) |
+| [0665-non-decreasing-array](https://github.com/Khushboo-25/DSA/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Khushboo-25/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Khushboo-25/DSA/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
