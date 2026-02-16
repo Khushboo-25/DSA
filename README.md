@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/Khushboo-25/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/Khushboo-25/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/Khushboo-25/DSA/tree/master/1014-best-sightseeing-pair) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Khushboo-25/DSA/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Khushboo-25/DSA/tree/master/1048-longest-string-chain) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khushboo-25/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/Khushboo-25/DSA/tree/master/1022-unique-paths-iii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Khushboo-25/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1035-uncrossed-lines](https://github.com/Khushboo-25/DSA/tree/master/1035-uncrossed-lines) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Khushboo-25/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Khushboo-25/DSA/tree/master/0907-koko-eating-bananas) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -1484,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Khushboo-25/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Khushboo-25/DSA/tree/master/1048-longest-string-chain) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Khushboo-25/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
