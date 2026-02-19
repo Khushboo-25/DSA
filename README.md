@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Khushboo-25/DSA/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Khushboo-25/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Khushboo-25/DSA/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Khushboo-25/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Khushboo-25/DSA/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Khushboo-25/DSA/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Khushboo-25/DSA/tree/master/0273-integer-to-english-words) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Khushboo-25/DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Khushboo-25/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Khushboo-25/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Khushboo-25/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushboo-25/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
