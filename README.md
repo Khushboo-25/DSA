@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Khushboo-25/DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Khushboo-25/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Khushboo-25/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Khushboo-25/DSA/tree/master/0493-reverse-pairs) |
@@ -1458,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Khushboo-25/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Khushboo-25/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Khushboo-25/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Khushboo-25/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushboo-25/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1685,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Khushboo-25/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Khushboo-25/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Khushboo-25/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Khushboo-25/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
@@ -1855,6 +1858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Khushboo-25/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/Khushboo-25/DSA/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Khushboo-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -2012,6 +2016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/Khushboo-25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Khushboo-25/DSA/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
@@ -2023,4 +2028,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Khushboo-25/DSA/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
