@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Khushboo-25/DSA/tree/master/1048-longest-string-chain) |
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Khushboo-25/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1239-largest-1-bordered-square](https://github.com/Khushboo-25/DSA/tree/master/1239-largest-1-bordered-square) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Khushboo-25/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Khushboo-25/DSA/tree/master/1117-as-far-from-land-as-possible) |
 | [1127-last-stone-weight](https://github.com/Khushboo-25/DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Khushboo-25/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Khushboo-25/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/Khushboo-25/DSA/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1224-maximum-equal-frequency](https://github.com/Khushboo-25/DSA/tree/master/1224-maximum-equal-frequency) |
