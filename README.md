@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Khushboo-25/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Khushboo-25/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2370-longest-ideal-subsequence](https://github.com/Khushboo-25/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Khushboo-25/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khushboo-25/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushboo-25/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Khushboo-25/DSA/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2370-longest-ideal-subsequence](https://github.com/Khushboo-25/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/2501-longest-square-streak-in-an-array) |
@@ -1536,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/Khushboo-25/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Khushboo-25/DSA/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/Khushboo-25/DSA/tree/master/2364-count-number-of-bad-pairs) |
+| [2370-longest-ideal-subsequence](https://github.com/Khushboo-25/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Khushboo-25/DSA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/Khushboo-25/DSA/tree/master/2455-node-with-highest-edge-score) |
