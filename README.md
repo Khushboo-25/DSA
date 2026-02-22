@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Khushboo-25/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Khushboo-25/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Khushboo-25/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Khushboo-25/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Khushboo-25/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Khushboo-25/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -2039,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Khushboo-25/DSA/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Khushboo-25/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Data Stream
 |  |
 | ------- |
