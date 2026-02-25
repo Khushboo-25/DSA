@@ -1,26 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& iter) 
+    vector<vector<int>> merge(vector<vector<int>>& it) 
     {
-        int n=iter.size();
-        sort(iter.begin(),iter.end());
-        vector<vector<int> > ans;
-        ans.push_back(iter[0]);
-        int k=0;
+        sort(it.begin(),it.end());
+        int n=it.size();
+        vector<vector<int>>ans;
+        ans.push_back(it[0]);
         for(int i=1;i<n;i++)
         {
-            if(iter[i][0]<=ans[k][1])
+            int s=it[i][0];
+            int e=it[i][1];
+            while(!ans.empty() && ans.back()[1]>=s)
             {
-                int s=ans[k][0];
-                int e=max(ans[k][1],iter[i][1]);
+                s=min(s,ans.back()[0]);
+                e=max(e,ans.back()[1]);
                 ans.pop_back();
-                ans.push_back({s,e});
             }
-            else
-            {
-                ans.push_back(iter[i]);
-                k++;
-            }
+            ans.push_back({s,e});
         }
         return ans;
         
