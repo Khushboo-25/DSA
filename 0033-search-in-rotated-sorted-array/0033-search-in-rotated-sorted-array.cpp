@@ -1,26 +1,26 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int x) 
+    int search(vector<int>& nums, int tt) 
     {
         int n=nums.size();
         int s=0,e=n-1;
         while(s<=e)
         {
             int m=s+(e-s)/2;
-            if(nums[m]==x)
+            if(nums[m]==tt)
             return m;
             if(nums[s]<=nums[m])
             {
-                if(nums[m]>=x && nums[s]<=x)
+                if(nums[m]>tt && tt>=nums[s])
                 {
                     e=m-1;
                 }
                 else
                 s=m+1;
             }
-            else 
+            else
             {
-                if(nums[m]<=x && nums[e]>=x)
+                if(nums[m]<tt && tt<=nums[e])
                 {
                     s=m+1;
                 }
@@ -28,6 +28,7 @@ public:
                 e=m-1;
             }
         }
-        return -1;
+
+        return -1;        
     }
 };
