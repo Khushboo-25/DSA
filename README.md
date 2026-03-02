@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Khushboo-25/DSA/tree/master/0946-validate-stack-sequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Khushboo-25/DSA/tree/master/0932-beautiful-array) |
 | [0940-fruit-into-baskets](https://github.com/Khushboo-25/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Khushboo-25/DSA/tree/master/0946-validate-stack-sequences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Khushboo-25/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Khushboo-25/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Khushboo-25/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1738,6 +1740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Khushboo-25/DSA/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/Khushboo-25/DSA/tree/master/0946-validate-stack-sequences) |
 | [1324-print-words-vertically](https://github.com/Khushboo-25/DSA/tree/master/1324-print-words-vertically) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Khushboo-25/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khushboo-25/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
