@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Khushboo-25/DSA/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Khushboo-25/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/Khushboo-25/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/Khushboo-25/DSA/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/Khushboo-25/DSA/tree/master/0784-letter-case-permutation) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushboo-25/DSA/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/Khushboo-25/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Khushboo-25/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
@@ -1402,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Khushboo-25/DSA/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Khushboo-25/DSA/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/Khushboo-25/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Khushboo-25/DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Khushboo-25/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1499,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Khushboo-25/DSA/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Khushboo-25/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Khushboo-25/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
