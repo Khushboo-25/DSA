@@ -1708,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Khushboo-25/DSA/tree/master/0382-linked-list-random-node) |
+| [0707-design-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0707-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Khushboo-25/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Khushboo-25/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1724,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Khushboo-25/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0707-design-linked-list](https://github.com/Khushboo-25/DSA/tree/master/0707-design-linked-list) |
 | [0715-range-module](https://github.com/Khushboo-25/DSA/tree/master/0715-range-module) |
 | [1572-subrectangle-queries](https://github.com/Khushboo-25/DSA/tree/master/1572-subrectangle-queries) |
 | [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
