@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Khushboo-25/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushboo-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Khushboo-25/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3174-clear-digits](https://github.com/Khushboo-25/DSA/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Khushboo-25/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Khushboo-25/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
+| [3174-clear-digits](https://github.com/Khushboo-25/DSA/tree/master/3174-clear-digits) |
 | [4000-count-bowl-subarrays](https://github.com/Khushboo-25/DSA/tree/master/4000-count-bowl-subarrays) |
 ## Array
 |  |
@@ -1777,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Khushboo-25/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [3174-clear-digits](https://github.com/Khushboo-25/DSA/tree/master/3174-clear-digits) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Khushboo-25/DSA/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
 | [3813-vowel-consonant-score](https://github.com/Khushboo-25/DSA/tree/master/3813-vowel-consonant-score) |
