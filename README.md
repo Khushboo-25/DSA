@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Khushboo-25/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Khushboo-25/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Khushboo-25/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Khushboo-25/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Khushboo-25/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Khushboo-25/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Khushboo-25/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Khushboo-25/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Khushboo-25/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Khushboo-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Khushboo-25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Khushboo-25/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Khushboo-25/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushboo-25/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
