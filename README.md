@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Khushboo-25/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Khushboo-25/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Khushboo-25/DSA/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Khushboo-25/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Khushboo-25/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Khushboo-25/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Khushboo-25/DSA/tree/master/0087-scramble-string) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Khushboo-25/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Khushboo-25/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Khushboo-25/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Khushboo-25/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Khushboo-25/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Khushboo-25/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -1843,6 +1845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khushboo-25/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Khushboo-25/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Khushboo-25/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Khushboo-25/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
