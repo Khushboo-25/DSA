@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Khushboo-25/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushboo-25/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Khushboo-25/DSA/tree/master/0399-evaluate-division) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Khushboo-25/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Khushboo-25/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Khushboo-25/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1351,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Khushboo-25/DSA/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Khushboo-25/DSA/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Khushboo-25/DSA/tree/master/0398-random-pick-index) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Khushboo-25/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Khushboo-25/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
@@ -1517,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Khushboo-25/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushboo-25/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/Khushboo-25/DSA/tree/master/0398-random-pick-index) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Khushboo-25/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/Khushboo-25/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Khushboo-25/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
