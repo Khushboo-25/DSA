@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Khushboo-25/DSA/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Khushboo-25/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3290-maximum-multiplication-score](https://github.com/Khushboo-25/DSA/tree/master/3290-maximum-multiplication-score) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Khushboo-25/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Khushboo-25/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Khushboo-25/DSA/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3226-minimum-number-game](https://github.com/Khushboo-25/DSA/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Khushboo-25/DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Khushboo-25/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
