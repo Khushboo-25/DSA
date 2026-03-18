@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Khushboo-25/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Khushboo-25/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Khushboo-25/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Khushboo-25/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Khushboo-25/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Khushboo-25/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Khushboo-25/DSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Khushboo-25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Khushboo-25/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khushboo-25/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Khushboo-25/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -1809,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Khushboo-25/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khushboo-25/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Khushboo-25/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
