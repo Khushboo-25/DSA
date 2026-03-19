@@ -1362,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Khushboo-25/DSA/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Khushboo-25/DSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Khushboo-25/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Khushboo-25/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0523-continuous-subarray-sum](https://github.com/Khushboo-25/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Khushboo-25/DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Khushboo-25/DSA/tree/master/0539-minimum-time-difference) |
@@ -1920,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Khushboo-25/DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Khushboo-25/DSA/tree/master/0223-rectangle-area) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Khushboo-25/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0830-largest-triangle-area](https://github.com/Khushboo-25/DSA/tree/master/0830-largest-triangle-area) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -2082,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Khushboo-25/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/Khushboo-25/DSA/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Khushboo-25/DSA/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Khushboo-25/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -2114,4 +2117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Khushboo-25/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Khushboo-25/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
