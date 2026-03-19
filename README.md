@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushboo-25/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Khushboo-25/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Khushboo-25/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Khushboo-25/DSA/tree/master/2058-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushboo-25/DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Khushboo-25/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -1579,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Khushboo-25/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Khushboo-25/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Khushboo-25/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -1834,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/Khushboo-25/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Khushboo-25/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2364-count-number-of-bad-pairs](https://github.com/Khushboo-25/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
