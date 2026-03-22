@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Khushboo-25/DSA/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Khushboo-25/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Khushboo-25/DSA/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Khushboo-25/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Khushboo-25/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Khushboo-25/DSA/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/Khushboo-25/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Khushboo-25/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Khushboo-25/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/Khushboo-25/DSA/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/Khushboo-25/DSA/tree/master/0784-letter-case-permutation) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Khushboo-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Khushboo-25/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Khushboo-25/DSA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Khushboo-25/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Khushboo-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Khushboo-25/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Khushboo-25/DSA/tree/master/0502-ipo) |
