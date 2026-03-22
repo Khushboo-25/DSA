@@ -1,31 +1,41 @@
 class Solution {
 public:
-map<pair<int,int>,bool>dp;
-bool call(int i,int prev,vector<int> &a,int &n)
+vector<int>dr={-1,0,1};
+int call(int lt,int i,int &n,vector<int>&st,unordered_map<int,int> &pp,vector<vector<int>>&dp)
 {
-    if(i==n-1)
-    return 1;
-    if(i>=n|| prev<=0)
-    return 0;
-    if(dp.find({i,prev})!=dp.end())
-    return dp[{i,prev}];
-    bool cn=0;
-    for(int j=i;j<n;j++)
+    if(i>=n-1)
     {
-        int d1=a[j]-a[i];
-        if(d1==prev+1 || d1==prev-1 || d1==prev)
-        cn|=call(j,d1,a,n);
-        if(cn==1)
-        return dp[{i,prev}]=1;
-
+        
+        return 1;
     }
-    return dp[{i,prev}]=cn;
+    if(dp[lt][i]!=-1)
+    return dp[lt][i];
+    for(auto it:dr)
+    {
+        int move=lt+it;
+        if(move>=1 && pp.find(st[i]+move)!=pp.end())
+        {
+            if(call(move,pp[st[i]+move],n,st,pp,dp))
+            return dp[lt][i]=1;
+        }
+    }
+    return dp[lt][i]=0;
+    
 }
-    bool canCross(vector<int>& stones) {
-        int n=stones.size();
-        // vector<vector<int>>dp(n,vector<int>(n,-1));
-        if(stones[1]-stones[0]!=1)
+    bool canCross(vector<int>&st) 
+    {
+        
+        unordered_map<int,int>pp;
+
+        int n=st.size();
+        if(st[1]-st[0]!=1)
         return 0;
-        return call(1,1,stones,n);
+        for(int i=0;i<n;i++)
+        {
+            pp[st[i]]=i;
+        }
+        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        return call(1,1,n,st,pp,dp);
+        
     }
 };
