@@ -1,31 +1,25 @@
 class Solution {
 public:
-int call(int i,int n,int op,vector<int> &nums,vector<vector<int>> &dp)
-{
-    if(i>=n)
-    return 0;
-    if(dp[i][op]!=-1)
-    return dp[i][op];
-    int ans=0;
-    if(op==1)//take
-    {
-        
-        ans=max(ans,nums[i]+call(i+1,n,0,nums,dp));
-        ans=max(ans,call(i+1,n,1,nums,dp));
-    }
-    else
-    {
-        ans=max(ans,call(i+1,n,1,nums,dp));
-    }
-    return dp[i][op]=ans;
-}
     int rob(vector<int>& nums) 
     {
         int n=nums.size();
         if(n==1)
         return nums[0];
-        vector<vector<int>>dp1(n+1,vector<int>(2,-1)),dp2(n+1,vector<int>(2,-1));
-        return max(call(0,n-1,1,nums,dp1),call(1,n,1,nums,dp2));
-        
+        int p1=nums[0],p2=max(nums[0],nums[1]);
+        for(int i=2;i<n-1;i++)
+        {
+            int t1=max(p1+nums[i],p2);
+            p1=p2;
+            p2=t1;
+        }
+        int ans=p2;
+        p1=max(nums[n-2],nums[n-1]),p2=nums[n-1];
+        for(int j=n-3;j>0;j--)
+        {
+            int t1=max(p2+nums[j],p1);
+            p2=p1;
+            p1=t1;
+        }
+        return max(ans,p1);
     }
 };
