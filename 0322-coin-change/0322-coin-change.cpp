@@ -1,35 +1,38 @@
 class Solution {
 public:
-int call(int i,int tt,vector<int> &c,int &n,vector<vector<int>>&dp)
+int call(int i,int am,int &n,vector<int>&c,vector<vector<int>>&dp)
 {
     if(i>=n)
     {
-        if(tt==0)
-        {
-            return 0;
-        }
-        return 1e5;
-    }
-    if(dp[i][tt]!=-1)
-    return dp[i][tt];
-    int ans=1e5;
-    if(c[i]<=tt)
-    {
-        ans=min(1+call(i+1,tt-c[i],c,n,dp),ans);
-        ans=min(1+call(i,tt-c[i],c,n,dp),ans);
-    }
-    ans=min(ans,call(i+1,tt,c,n,dp));
-    return dp[i][tt]=ans;
-
-}
-    int coinChange(vector<int>& coins, int amount) 
-    {
-        int n=coins.size();
-        vector<vector<int>>dp(n+1,vector<int>(amount+1,-1));
-        int ans=call(0,amount,coins,n,dp);
-        if(ans>1e4)
+        if(am==0)
+        return 0;
         return -1;
-        return ans;
+
+    }
+    if(dp[i][am]!=INT_MIN)
+    return dp[i][am];
+    int ans=INT_MAX;
+    if(am-c[i]>=0)
+    {
+        int ans1=call(i,am-c[i],n,c,dp);
+        if(ans1>=0)
+        ans=min(ans,1+ans1);
+        int ans2=call(i+1,am-c[i],n,c,dp);
+        if(ans2>=0)
+        ans=min(ans,1+ans2);
+    }
+    int ans3=call(i+1,am,n,c,dp);
+    if(ans3>=0)
+    ans=min(ans,ans3);
+    if(ans==INT_MAX)
+    return dp[i][am]=-1;
+    return dp[i][am]=ans;
+}
+    int coinChange(vector<int>&c, int am) 
+    {
+        int n=c.size();
+        vector<vector<int>>dp(n+1,vector<int>(am+1,INT_MIN));
+        return call(0,am,n,c,dp);
         
     }
 };
