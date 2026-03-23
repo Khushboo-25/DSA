@@ -1122,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Khushboo-25/DSA/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khushboo-25/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/Khushboo-25/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khushboo-25/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Khushboo-25/DSA/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -1862,6 +1863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Biconnected Component
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1300-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1300-critical-connections-in-a-network) |
 ## Counting
 |  |
@@ -2149,6 +2151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Khushboo-25/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Khushboo-25/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Khushboo-25/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/Khushboo-25/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Khushboo-25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Khushboo-25/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Khushboo-25/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
