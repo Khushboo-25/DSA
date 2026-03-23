@@ -35,14 +35,8 @@ public:
                 }
             }
         }
-        int ans=INT_MAX;
-        for(int i=0;i<=k;i++)
-        {
-            ans=min(ans,dis[dst][i]);
-        }
-        if(ans==INT_MAX)
+        
         return -1;
-        return ans;
         
     }
 };
