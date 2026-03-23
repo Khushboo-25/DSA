@@ -1,33 +1,33 @@
 class Solution {
 public:
-int call(int in,int state,vector<int> &p,int &n,vector<vector<int>>&dp)
+
+int call(int op,int i,int &n,vector<int>&pr,vector<vector<int>>&dp)
 {
-    if(in>=n)
+    if(i>=n)
     return 0;
-    if(dp[in][state]!=-1)
-    return dp[in][state];
-    //wanna buy
-    int pf=0;
-    if(state==1)
+    if(dp[op][i]!=-1)
+    return dp[op][i];
+    int ans=0;
+    if(op==1)
     {
-        // if(k>1)
-        int pf1=call(in+1,0,p,n,dp)-p[in];
-        int pf2=call(in+1,1,p,n,dp);
-        pf=max(pf,max(pf1,pf2));
+        ans=max(ans,call(0,i+1,n,pr,dp)-pr[i]);
+        ans=max(ans,call(1,i+1,n,pr,dp));
     }
-    else // wanna sell
+    else
     {
-        int pf1=call(in+1,0,p,n,dp);
-        int pf2=call(in+2,1,p,n,dp)+p[in];
-        pf=max(pf,max(pf1,pf2));
+        ans=max(ans,call(1,i+2,n,pr,dp)+pr[i]);
+        ans=max(ans,call(0,i+1,n,pr,dp));
     }
-    return dp[in][state]=pf;
+    return dp[op][i]=ans;
+
+
 }
-    int maxProfit(vector<int>& prices) 
+    int maxProfit(vector<int>& pr) 
     {
-        int n=prices.size();
-        vector<vector<int>>dp(n+1,vector<int>(3,-1));
-        return call(0,1,prices,n,dp);
+        int n=pr.size();
+        vector<vector<int>>dp(2,vector<int>(n+1,-1));
+        return call(1,0,n,pr,dp);
+    
         
     }
 };
