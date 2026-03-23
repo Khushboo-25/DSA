@@ -1,41 +1,46 @@
 class Solution {
 public:
-
-    int ladderLength(string startWord, string targetWord,
-                         vector<string> &wordList) 
+    int ladderLength(string sd, string ed, vector<string>&dct) 
     {
-        
-        queue<pair<string, int>> q;
-        q.push({startWord, 1});
-        unordered_map<string,int>st;
-        for(auto it: wordList)
+        unordered_map<string,int>pp;
+        for(auto it:dct)
         {
-            st[it]=INT_MAX;
+            pp[it]=INT_MAX;
         }
-        st[startWord]=1;
-        while (!q.empty())
-        {
-            string word = q.front().first;
-            int steps = q.front().second;
-            q.pop();
-            if (word == targetWord)
-                return steps;
+        int n=sd.size();
+        pp[sd]=1;
+        
+        queue<pair<string,int>>pq;
+        pq.push({sd,1});
 
-            for (int i = 0; i < word.size(); i++)
+        while(!pq.empty())
+        {
+            int d=pq.front().second;
+            string st=pq.front().first;
+            pq.pop();
+            if(st==ed)
+            return d;
+            for(int i=0;i<n;i++)
             {
-                char original = word[i];
-                for (char ch = 'a'; ch <= 'z'; ch++)
+                char c1=st[i];
+                for(char c='a';c<='z';c++)
                 {
-                    word[i] = ch;
-                    if (st.find(word)!=st.end() && st[word]>steps+1)
-                    {
-                        st[word]=steps+1;
-                        q.push({word, steps + 1});
-                    }
+                    
+                    st[i]=c;
+                        if(pp.find(st)!=pp.end() && pp[st]>d+1)
+                        {
+                            pp[st]=d+1;
+                            pq.push({st,pp[st]});
+                        }
+                    
                 }
-                word[i] = original;
+                st[i]=c1;
             }
+            
+
         }
         return 0;
+        
+
     }
 };
