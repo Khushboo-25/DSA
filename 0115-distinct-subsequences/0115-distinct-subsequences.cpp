@@ -2,11 +2,14 @@ class Solution {
 public:
 int call(int i,int j,int &n,int &m,string &s,string &t,vector<vector<int>>&dp)
 {
-    
+    if(i>=n)
+    {
+        if(j>=m)
+        return 1;
+        return 0;
+    }
     if(j>=m)
     return 1;
-    if(i>=n)
-    return 0;
     if(dp[i][j]!=-1)
     return dp[i][j];
     int ans=0;
