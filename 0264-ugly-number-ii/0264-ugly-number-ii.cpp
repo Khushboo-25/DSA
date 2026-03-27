@@ -1,15 +1,6 @@
 class Solution {
 public:
-bool check(unordered_map<int,int>&pp,int i)
-{
-    if(i%2==0 && pp[i/2]==1)
-    return 1;
-    if(i%3==0 && pp[i/3]==1)
-    return 1;
-    if(i%5==0 && pp[i/5]==1)
-    return 1;
-    return 0;
-}
+
     int nthUglyNumber(int n) 
     {
         if(n==1)
