@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Khushboo-25/DSA/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Khushboo-25/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Khushboo-25/DSA/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2826-sorting-three-groups](https://github.com/Khushboo-25/DSA/tree/master/2826-sorting-three-groups) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Khushboo-25/DSA/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Khushboo-25/DSA/tree/master/3098-find-the-sum-of-subsequence-powers) |
