@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Khushboo-25/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3114-beautiful-towers-i](https://github.com/Khushboo-25/DSA/tree/master/3114-beautiful-towers-i) |
 | [3115-maximum-prime-difference](https://github.com/Khushboo-25/DSA/tree/master/3115-maximum-prime-difference) |
+| [3128-right-triangles](https://github.com/Khushboo-25/DSA/tree/master/3128-right-triangles) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Khushboo-25/DSA/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -1454,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/Khushboo-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Khushboo-25/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3115-maximum-prime-difference](https://github.com/Khushboo-25/DSA/tree/master/3115-maximum-prime-difference) |
+| [3128-right-triangles](https://github.com/Khushboo-25/DSA/tree/master/3128-right-triangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Khushboo-25/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Khushboo-25/DSA/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1647,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/Khushboo-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushboo-25/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushboo-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3128-right-triangles](https://github.com/Khushboo-25/DSA/tree/master/3128-right-triangles) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Khushboo-25/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3295-report-spam-message](https://github.com/Khushboo-25/DSA/tree/master/3295-report-spam-message) |
@@ -1893,6 +1896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Khushboo-25/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Khushboo-25/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3128-right-triangles](https://github.com/Khushboo-25/DSA/tree/master/3128-right-triangles) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/Khushboo-25/DSA/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Khushboo-25/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1939,6 +1943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Khushboo-25/DSA/tree/master/1307-ugly-number-iii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3128-right-triangles](https://github.com/Khushboo-25/DSA/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Khushboo-25/DSA/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Enumeration
 |  |
