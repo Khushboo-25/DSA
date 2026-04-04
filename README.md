@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Khushboo-25/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Khushboo-25/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Khushboo-25/DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2826-sorting-three-groups](https://github.com/Khushboo-25/DSA/tree/master/2826-sorting-three-groups) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2923-find-champion-i](https://github.com/Khushboo-25/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushboo-25/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Khushboo-25/DSA/tree/master/3011-find-if-array-can-be-sorted) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Khushboo-25/DSA/tree/master/2498-frog-jump-ii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2826-sorting-three-groups](https://github.com/Khushboo-25/DSA/tree/master/2826-sorting-three-groups) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Khushboo-25/DSA/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Khushboo-25/DSA/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
@@ -921,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2708-maximum-strength-of-a-group](https://github.com/Khushboo-25/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Khushboo-25/DSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -1646,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2947-count-beautiful-substrings-i](https://github.com/Khushboo-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushboo-25/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushboo-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1895,6 +1900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2364-count-number-of-bad-pairs](https://github.com/Khushboo-25/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Khushboo-25/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Khushboo-25/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3128-right-triangles](https://github.com/Khushboo-25/DSA/tree/master/3128-right-triangles) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Khushboo-25/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
