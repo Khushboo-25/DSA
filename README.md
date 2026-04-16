@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Khushboo-25/DSA/tree/master/1035-uncrossed-lines) |
 | [1036-rotting-oranges](https://github.com/Khushboo-25/DSA/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Khushboo-25/DSA/tree/master/1048-longest-string-chain) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Khushboo-25/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Khushboo-25/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Khushboo-25/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1104-coloring-a-border](https://github.com/Khushboo-25/DSA/tree/master/1104-coloring-a-border) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Khushboo-25/DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Khushboo-25/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Khushboo-25/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Khushboo-25/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khushboo-25/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/Khushboo-25/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/1382-balance-a-binary-search-tree) |
