@@ -1,23 +1,35 @@
 class MedianFinder {
 public:
-    vector<int> pp;
+    priority_queue<int> left; // max heap
+    priority_queue<int, vector<int>, greater<int>> right; // min heap
+
+    MedianFinder() {}
+
     void addNum(int num) 
     {
-        pp.insert(lower_bound(pp.begin(), pp.end(), num),num);
+        left.push(num);
+        
+        
+        right.push(left.top());
+        left.pop();
+
+        if(right.size() > left.size())
+        {
+            left.push(right.top());
+            right.pop();
+        }
     }
+
     double findMedian() 
     {
-        // sort(pp.begin(),pp.end());
-        int n=pp.size();
-        if(n%2)
+        if(left.size() == right.size())
         {
-            return pp[n/2];
+            return (left.top() + right.top()) / 2.0;
         }
-        return (pp[n/2]+pp[n/2-1])/(2.0);
+        return left.top();
     }
 };
-
-/**
+/*
  * Your MedianFinder object will be instantiated and called as such:
  * MedianFinder* obj = new MedianFinder();
  * obj->addNum(num);
