@@ -1,26 +1,19 @@
 class MedianFinder {
 public:
-    multiset<int>st;
+    vector<int> pp;
     void addNum(int num) 
     {
-        st.insert(num);
+        pp.insert(lower_bound(pp.begin(), pp.end(), num),num);
     }
     double findMedian() 
     {
         // sort(pp.begin(),pp.end());
-        int n=st.size();
-        
-            auto it=st.begin();
-            advance(it,(n-1)/2);
-            double x=*it;
-            if(n%2==0)
-            {
-                advance(it,1);
-                x+=*it;
-                return x/2.0;
-            }
-            return x;
-
+        int n=pp.size();
+        if(n%2)
+        {
+            return pp[n/2];
+        }
+        return (pp[n/2]+pp[n/2-1])/(2.0);
     }
 };
 
