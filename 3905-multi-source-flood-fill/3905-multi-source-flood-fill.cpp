@@ -9,16 +9,10 @@ vector<pair<int,int>>dr={{1,0},{-1,0},{0,-1},{0,1}};
         priority_queue<ppl,vector<ppl>,greater<ppl>>qt;
         for(auto it:sources)
         {
-            // for(int j=0;j<m;j++)
-            // {
                 int x=it[0],y=it[1],c=it[2];
                 grid[x][y]=c;
-                // if(sources[i][j]!=0)
-                // {
-                    tm[x][y]=0;
-                    qt.push({0,{x,y}});
-            //     }
-            // }
+                tm[x][y]=0;
+                qt.push({0,{x,y}});
         }
         while(!qt.empty())
         {
