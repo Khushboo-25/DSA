@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Khushboo-25/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Khushboo-25/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Khushboo-25/DSA/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/Khushboo-25/DSA/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Khushboo-25/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/Khushboo-25/DSA/tree/master/0556-next-greater-element-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Khushboo-25/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/Khushboo-25/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Khushboo-25/DSA/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Khushboo-25/DSA/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Khushboo-25/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Khushboo-25/DSA/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Khushboo-25/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
