@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Khushboo-25/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Khushboo-25/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khushboo-25/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/Khushboo-25/DSA/tree/master/2058-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushboo-25/DSA/tree/master/2109-adding-spaces-to-a-string) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Khushboo-25/DSA/tree/master/1895-largest-magic-square) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khushboo-25/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khushboo-25/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushboo-25/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Khushboo-25/DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Khushboo-25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Khushboo-25/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khushboo-25/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Khushboo-25/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Khushboo-25/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -1455,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1925-count-square-sum-triples](https://github.com/Khushboo-25/DSA/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Khushboo-25/DSA/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khushboo-25/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Khushboo-25/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Khushboo-25/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
