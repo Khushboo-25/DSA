@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khushboo-25/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Khushboo-25/DSA/tree/master/1895-largest-magic-square) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Khushboo-25/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Khushboo-25/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Khushboo-25/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Khushboo-25/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Khushboo-25/DSA/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/Khushboo-25/DSA/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khushboo-25/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khushboo-25/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1865,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Khushboo-25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Khushboo-25/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Khushboo-25/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Khushboo-25/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2058-concatenation-of-array](https://github.com/Khushboo-25/DSA/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushboo-25/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Khushboo-25/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
