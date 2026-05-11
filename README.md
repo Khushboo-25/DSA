@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/Khushboo-25/DSA/tree/master/2488-count-subarrays-with-median-k) |
 | [2498-frog-jump-ii](https://github.com/Khushboo-25/DSA/tree/master/2498-frog-jump-ii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Khushboo-25/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Khushboo-25/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -1877,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Khushboo-25/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2389-design-a-text-editor](https://github.com/Khushboo-25/DSA/tree/master/2389-design-a-text-editor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Khushboo-25/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Khushboo-25/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/Khushboo-25/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3174-clear-digits](https://github.com/Khushboo-25/DSA/tree/master/3174-clear-digits) |
