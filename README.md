@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Khushboo-25/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushboo-25/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Khushboo-25/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2166-design-bitset](https://github.com/Khushboo-25/DSA/tree/master/2166-design-bitset) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Khushboo-25/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Khushboo-25/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khushboo-25/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Khushboo-25/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Khushboo-25/DSA/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Khushboo-25/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Khushboo-25/DSA/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Khushboo-25/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Khushboo-25/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khushboo-25/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Khushboo-25/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Khushboo-25/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Khushboo-25/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Khushboo-25/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
