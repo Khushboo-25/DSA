@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Khushboo-25/DSA/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2938-separate-black-and-white-balls](https://github.com/Khushboo-25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Khushboo-25/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Khushboo-25/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Khushboo-25/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/Khushboo-25/DSA/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## String
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Khushboo-25/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Khushboo-25/DSA/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Khushboo-25/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3681-maximum-xor-of-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3686-number-of-stable-subsequences](https://github.com/Khushboo-25/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khushboo-25/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Khushboo-25/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Khushboo-25/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Khushboo-25/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Khushboo-25/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Khushboo-25/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Khushboo-25/DSA/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Database
