@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Khushboo-25/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Khushboo-25/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1745-palindrome-partitioning-iv](https://github.com/Khushboo-25/DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Khushboo-25/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Khushboo-25/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Khushboo-25/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushboo-25/DSA/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1745-palindrome-partitioning-iv](https://github.com/Khushboo-25/DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Khushboo-25/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Khushboo-25/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Khushboo-25/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
