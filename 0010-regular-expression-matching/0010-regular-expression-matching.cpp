@@ -1,28 +1,35 @@
 class Solution {
 public:
-bool helper(int i,int j,string &s,string &p,vector<vector<int>>&dp)
+bool call(int i,int j,int &n,int &m,string &s,string &p,vector<vector<int>>&dp)
 {
-    if(j>=s.size())
-    return 1;
+    if(j>=m)
+    return i>=n;
     if(dp[i][j]!=-1)
     return dp[i][j];
+    bool nextst=0;
+    if(j+1<m && p[j+1]=='*')
+    nextst=1;
+    if(nextst)
+    {
+        bool a=0,b=0;
+        if(i<n && (s[i]==p[j] || p[j]=='.'))
+        a=call(i+1,j,n,m,s,p,dp);
+        b=call(i,j+2,n,m,s,p,dp);
+        return dp[i][j]=a|b;
+    }
+    else
+    {
+        if(i<n && (s[i]==p[j]|| p[j]=='.'))
+        return dp[i][j]=call(i+1,j+1,n,m,s,p,dp);
+    }
 
-    if(p[j]!='*')
-    {
-        if(s[i]==p[j] || p[j]=='.')
-        return dp[i][j]=helper(i+1,j+1,s,p,dp);
-        return 0;
-    }
-    if(p[j]=='*')
-    {
-        return helper(i,j+1,s,p,dp)||helper(i+1,j+1,s,p,dp);
-    }
-    return 0;
-    
+    return dp[i][j]= 0;
     
 }
-    bool isMatch(string s, string p) {
-        vector<vector<int>>dp(s.size()+1,vector<int>(p.size()+1,-1));
-        return helper(0,0,s,p,dp);
+    bool isMatch(string s, string p) 
+    {
+        int n=s.size(),m=p.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
+        return call(0,0,n,m,s,p,dp);
     }
 };
