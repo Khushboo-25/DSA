@@ -1349,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khushboo-25/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushboo-25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Khushboo-25/DSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Khushboo-25/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -1840,6 +1841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khushboo-25/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Khushboo-25/DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Khushboo-25/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -2076,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khushboo-25/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Khushboo-25/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Khushboo-25/DSA/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khushboo-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Khushboo-25/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -2162,6 +2165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khushboo-25/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushboo-25/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Khushboo-25/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Khushboo-25/DSA/tree/master/0912-sort-an-array) |
